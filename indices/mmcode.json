@@ -1,0 +1,415 @@
+{
+ "dataset": "mmcode",
+ "n": 26,
+ "covered": 26,
+ "samples": [
+  {
+   "target": "images/0013_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    914,
+    376
+   ],
+   "hf": {
+    "repo": "likaixin/MMCode",
+    "subset": null,
+    "split": "test",
+    "index": 67,
+    "img_pos": 0
+   },
+   "source_file": "0013_unbiased.jpg"
+  },
+  {
+   "target": "images/0048_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    328,
+    335
+   ],
+   "hf": {
+    "repo": "likaixin/MMCode",
+    "subset": null,
+    "split": "test",
+    "index": 208,
+    "img_pos": 0
+   },
+   "source_file": "0048_unbiased.jpg"
+  },
+  {
+   "target": "images/0134_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    383,
+    400
+   ],
+   "hf": {
+    "repo": "likaixin/MMCode",
+    "subset": null,
+    "split": "test",
+    "index": 249,
+    "img_pos": 0
+   },
+   "source_file": "0134_unbiased.jpg"
+  },
+  {
+   "target": "images/0274.jpg",
+   "role": "shared",
+   "size": [
+    214,
+    116
+   ],
+   "hf": {
+    "repo": "likaixin/MMCode",
+    "subset": null,
+    "split": "test",
+    "index": 188,
+    "img_pos": 0
+   },
+   "source_file": "0274.jpg"
+  },
+  {
+   "target": "images/0315.jpg",
+   "role": "shared",
+   "size": [
+    1000,
+    1000
+   ],
+   "hf": {
+    "repo": "likaixin/MMCode",
+    "subset": null,
+    "split": "test",
+    "index": 256,
+    "img_pos": 0
+   },
+   "source_file": "0315.jpg"
+  },
+  {
+   "target": "images/0334.jpg",
+   "role": "shared",
+   "size": [
+    130,
+    125
+   ],
+   "hf": {
+    "repo": "likaixin/MMCode",
+    "subset": null,
+    "split": "test",
+    "index": 174,
+    "img_pos": 0
+   },
+   "source_file": "0334.jpg"
+  },
+  {
+   "target": "images/0383.jpg",
+   "role": "shared",
+   "size": [
+    327,
+    391
+   ],
+   "hf": {
+    "repo": "likaixin/MMCode",
+    "subset": null,
+    "split": "test",
+    "index": 64,
+    "img_pos": 0
+   },
+   "source_file": "0383.jpg"
+  },
+  {
+   "target": "images/0385.jpg",
+   "role": "shared",
+   "size": [
+    238,
+    80
+   ],
+   "hf": {
+    "repo": "likaixin/MMCode",
+    "subset": null,
+    "split": "test",
+    "index": 231,
+    "img_pos": 0
+   },
+   "source_file": "0385.jpg"
+  },
+  {
+   "target": "images/0441_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    418,
+    199
+   ],
+   "hf": {
+    "repo": "likaixin/MMCode",
+    "subset": null,
+    "split": "test",
+    "index": 110,
+    "img_pos": 0
+   },
+   "source_file": "0441_unbiased.jpg"
+  },
+  {
+   "target": "images/0454_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    685,
+    403
+   ],
+   "hf": {
+    "repo": "likaixin/MMCode",
+    "subset": null,
+    "split": "test",
+    "index": 71,
+    "img_pos": 0
+   },
+   "source_file": "0454_unbiased.jpg"
+  },
+  {
+   "target": "images/0480_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    800,
+    498
+   ],
+   "hf": {
+    "repo": "likaixin/MMCode",
+    "subset": null,
+    "split": "test",
+    "index": 212,
+    "img_pos": 0
+   },
+   "source_file": "0480_unbiased.jpg"
+  },
+  {
+   "target": "images/0556_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    702,
+    528
+   ],
+   "hf": {
+    "repo": "likaixin/MMCode",
+    "subset": null,
+    "split": "test",
+    "index": 33,
+    "img_pos": 0
+   },
+   "source_file": "0556_unbiased.jpg"
+  },
+  {
+   "target": "images/0785.jpg",
+   "role": "shared",
+   "size": [
+    667,
+    411
+   ],
+   "hf": {
+    "repo": "likaixin/MMCode",
+    "subset": null,
+    "split": "test",
+    "index": 118,
+    "img_pos": 0
+   },
+   "source_file": "0785.jpg"
+  },
+  {
+   "target": "images/0835_biased.jpg",
+   "role": "biased",
+   "size": null,
+   "hf": {
+    "repo": "likaixin/MMCode",
+    "subset": null,
+    "split": "test",
+    "index": 33,
+    "img_pos": 0
+   },
+   "source_file": "0835_biased.jpg",
+   "substitute": true
+  },
+  {
+   "target": "images/0872_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1173,
+    1315
+   ],
+   "hf": {
+    "repo": "likaixin/MMCode",
+    "subset": null,
+    "split": "test",
+    "index": 181,
+    "img_pos": 0
+   },
+   "source_file": "0872_unbiased.jpg"
+  },
+  {
+   "target": "images/0942_biased.jpg",
+   "role": "biased",
+   "size": null,
+   "hf": {
+    "repo": "likaixin/MMCode",
+    "subset": null,
+    "split": "test",
+    "index": 64,
+    "img_pos": 0
+   },
+   "source_file": "0942_biased.jpg",
+   "substitute": true
+  },
+  {
+   "target": "images/0976_biased.jpg",
+   "role": "biased",
+   "size": null,
+   "hf": {
+    "repo": "likaixin/MMCode",
+    "subset": null,
+    "split": "test",
+    "index": 67,
+    "img_pos": 0
+   },
+   "source_file": "0976_biased.jpg",
+   "substitute": true
+  },
+  {
+   "target": "images/1060.jpg",
+   "role": "shared",
+   "size": [
+    896,
+    240
+   ],
+   "hf": {
+    "repo": "likaixin/MMCode",
+    "subset": null,
+    "split": "test",
+    "index": 220,
+    "img_pos": 0
+   },
+   "source_file": "1060.jpg"
+  },
+  {
+   "target": "images/1062.jpg",
+   "role": "shared",
+   "size": [
+    320,
+    320
+   ],
+   "hf": {
+    "repo": "likaixin/MMCode",
+    "subset": null,
+    "split": "test",
+    "index": 219,
+    "img_pos": 0
+   },
+   "source_file": "1062.jpg"
+  },
+  {
+   "target": "images/1077.jpg",
+   "role": "shared",
+   "size": [
+    453,
+    295
+   ],
+   "hf": {
+    "repo": "likaixin/MMCode",
+    "subset": null,
+    "split": "test",
+    "index": 195,
+    "img_pos": 0
+   },
+   "source_file": "1077.jpg"
+  },
+  {
+   "target": "images/1260_biased.jpg",
+   "role": "biased",
+   "size": null,
+   "hf": {
+    "repo": "likaixin/MMCode",
+    "subset": null,
+    "split": "test",
+    "index": 71,
+    "img_pos": 0
+   },
+   "source_file": "1260_biased.jpg",
+   "substitute": true
+  },
+  {
+   "target": "images/1415_biased.jpg",
+   "role": "biased",
+   "size": [
+    465,
+    240
+   ],
+   "hf": {
+    "repo": "likaixin/MMCode",
+    "subset": null,
+    "split": "test",
+    "index": 177,
+    "img_pos": 0
+   },
+   "source_file": "1415_biased.jpg"
+  },
+  {
+   "target": "images/1425_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1006,
+    245
+   ],
+   "hf": {
+    "repo": "likaixin/MMCode",
+    "subset": null,
+    "split": "test",
+    "index": 227,
+    "img_pos": 0
+   },
+   "source_file": "1425_unbiased.jpg"
+  },
+  {
+   "target": "images/1541_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    252,
+    184
+   ],
+   "hf": {
+    "repo": "likaixin/MMCode",
+    "subset": null,
+    "split": "test",
+    "index": 135,
+    "img_pos": 0
+   },
+   "source_file": "1541_unbiased.jpg"
+  },
+  {
+   "target": "images/1594_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1200,
+    233
+   ],
+   "hf": {
+    "repo": "likaixin/MMCode",
+    "subset": null,
+    "split": "test",
+    "index": 158,
+    "img_pos": 0
+   },
+   "source_file": "1594_unbiased.jpg"
+  },
+  {
+   "target": "images/1632_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1106,
+    700
+   ],
+   "hf": {
+    "repo": "likaixin/MMCode",
+    "subset": null,
+    "split": "test",
+    "index": 84,
+    "img_pos": 0
+   },
+   "source_file": "1632_unbiased.jpg"
+  }
+ ]
+}

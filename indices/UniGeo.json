@@ -1,0 +1,325 @@
+{
+ "dataset": "UniGeo",
+ "n": 23,
+ "covered": 23,
+ "samples": [
+  {
+   "target": "images/0323.jpg",
+   "role": "shared",
+   "size": [
+    97,
+    94
+   ],
+   "pk": {
+    "file": "calculation_test.pk",
+    "index": 647,
+    "key": "image"
+   },
+   "source_file": "0323.jpg"
+  },
+  {
+   "target": "images/0378.jpg",
+   "role": "shared",
+   "size": [
+    152,
+    22
+   ],
+   "pk": {
+    "file": "calculation_test.pk",
+    "index": 430,
+    "key": "image"
+   },
+   "source_file": "0378.jpg"
+  },
+  {
+   "target": "images/0397.jpg",
+   "role": "shared",
+   "size": [
+    114,
+    106
+   ],
+   "pk": {
+    "file": "calculation_test.pk",
+    "index": 716,
+    "key": "image"
+   },
+   "source_file": "0397.jpg"
+  },
+  {
+   "target": "images/0426_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    92,
+    106
+   ],
+   "pk": {
+    "file": "calculation_test.pk",
+    "index": 522,
+    "key": "image"
+   },
+   "source_file": "0426_unbiased.jpg"
+  },
+  {
+   "target": "images/0462_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    107,
+    116
+   ],
+   "pk": {
+    "file": "calculation_test.pk",
+    "index": 546,
+    "key": "image"
+   },
+   "source_file": "0462_unbiased.jpg"
+  },
+  {
+   "target": "images/0534_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    86,
+    77
+   ],
+   "pk": {
+    "file": "calculation_test.pk",
+    "index": 20,
+    "key": "image"
+   },
+   "source_file": "0534_unbiased.jpg"
+  },
+  {
+   "target": "images/0561_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    126,
+    103
+   ],
+   "pk": {
+    "file": "calculation_test.pk",
+    "index": 96,
+    "key": "image"
+   },
+   "source_file": "0561_unbiased.jpg"
+  },
+  {
+   "target": "images/0698.jpg",
+   "role": "shared",
+   "size": [
+    144,
+    136
+   ],
+   "pk": {
+    "file": "calculation_test.pk",
+    "index": 350,
+    "key": "image"
+   },
+   "source_file": "0698.jpg"
+  },
+  {
+   "target": "images/0748.jpg",
+   "role": "shared",
+   "size": [
+    121,
+    127
+   ],
+   "pk": {
+    "file": "calculation_train.pk",
+    "index": 869,
+    "key": "image"
+   },
+   "source_file": "0748.jpg"
+  },
+  {
+   "target": "images/0796.jpg",
+   "role": "shared",
+   "size": [
+    164,
+    78
+   ],
+   "pk": {
+    "file": "calculation_test.pk",
+    "index": 595,
+    "key": "image"
+   },
+   "source_file": "0796.jpg"
+  },
+  {
+   "target": "images/0826_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    245,
+    155
+   ],
+   "pk": {
+    "file": "calculation_val.pk",
+    "index": 601,
+    "key": "image"
+   },
+   "source_file": "0826_unbiased.jpg"
+  },
+  {
+   "target": "images/0843_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    202,
+    99
+   ],
+   "pk": {
+    "file": "calculation_test.pk",
+    "index": 74,
+    "key": "image"
+   },
+   "source_file": "0843_unbiased.jpg"
+  },
+  {
+   "target": "images/0935_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    147,
+    133
+   ],
+   "pk": {
+    "file": "calculation_test.pk",
+    "index": 626,
+    "key": "image"
+   },
+   "source_file": "0935_unbiased.jpg"
+  },
+  {
+   "target": "images/0987_biased.jpg",
+   "role": "biased",
+   "size": null,
+   "pk": {
+    "file": "calculation_train.pk",
+    "index": 27,
+    "key": "image"
+   },
+   "source_file": "0987_biased.jpg",
+   "substitute": true
+  },
+  {
+   "target": "images/0990_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    111,
+    113
+   ],
+   "pk": {
+    "file": "calculation_train.pk",
+    "index": 2817,
+    "key": "image"
+   },
+   "source_file": "0990_unbiased.jpg"
+  },
+  {
+   "target": "images/1074.jpg",
+   "role": "shared",
+   "size": [
+    118,
+    102
+   ],
+   "pk": {
+    "file": "calculation_test.pk",
+    "index": 695,
+    "key": "image"
+   },
+   "source_file": "1074.jpg"
+  },
+  {
+   "target": "images/1154.jpg",
+   "role": "shared",
+   "size": [
+    144,
+    128
+   ],
+   "pk": {
+    "file": "calculation_test.pk",
+    "index": 153,
+    "key": "image"
+   },
+   "source_file": "1154.jpg"
+  },
+  {
+   "target": "images/1316_biased.jpg",
+   "role": "biased",
+   "size": [
+    109,
+    117
+   ],
+   "pk": {
+    "file": "calculation_test.pk",
+    "index": 664,
+    "key": "image"
+   },
+   "source_file": "1316_biased.jpg"
+  },
+  {
+   "target": "images/1399_biased.jpg",
+   "role": "biased",
+   "size": [
+    152,
+    144
+   ],
+   "pk": {
+    "file": "calculation_test.pk",
+    "index": 450,
+    "key": "image"
+   },
+   "source_file": "1399_biased.jpg"
+  },
+  {
+   "target": "images/1405_biased.jpg",
+   "role": "biased",
+   "size": null,
+   "pk": {
+    "file": "calculation_train.pk",
+    "index": 869,
+    "key": "image"
+   },
+   "source_file": "1405_biased.jpg",
+   "substitute": true
+  },
+  {
+   "target": "images/1478_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    173,
+    107
+   ],
+   "pk": {
+    "file": "calculation_test.pk",
+    "index": 651,
+    "key": "image"
+   },
+   "source_file": "1478_unbiased.jpg"
+  },
+  {
+   "target": "images/1604_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    155,
+    20
+   ],
+   "pk": {
+    "file": "calculation_test.pk",
+    "index": 665,
+    "key": "image"
+   },
+   "source_file": "1604_unbiased.jpg"
+  },
+  {
+   "target": "images/1639_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    111,
+    146
+   ],
+   "pk": {
+    "file": "calculation_test.pk",
+    "index": 154,
+    "key": "image"
+   },
+   "source_file": "1639_unbiased.jpg"
+  }
+ ]
+}

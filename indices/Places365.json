@@ -1,0 +1,18 @@
+{
+ "dataset": "Places365",
+ "n": 1,
+ "covered": 1,
+ "samples": [
+  {
+   "target": "images/1333_biased.jpg",
+   "role": "biased",
+   "size": [
+    1728,
+    1296
+   ],
+   "file": "00002046.jpg",
+   "archive_path": "data_256/s/supermarket/00002046.jpg",
+   "source_file": "1333_biased.jpg"
+  }
+ ]
+}

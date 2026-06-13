@@ -1,0 +1,667 @@
+{
+ "dataset": "vcr-qa",
+ "n": 60,
+ "covered": 60,
+ "samples": [
+  {
+   "target": "images/0006_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1280,
+    708
+   ],
+   "file": "ccyTJYkiGqE@15.jpg",
+   "archive_path": "vcr1images/movieclips_Worlds_Greatest_Dad/ccyTJYkiGqE@15.jpg",
+   "source_file": "0006_unbiased.jpg"
+  },
+  {
+   "target": "images/0040_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1920,
+    1043
+   ],
+   "file": "3088_WHATS_YOUR_NUMBER_00.18.16.992-00.18.26.021@1.jpg",
+   "archive_path": "vcr1images/lsmdc_3088_WHATS_YOUR_NUMBER/3088_WHATS_YOUR_NUMBER_00.18.16.992-00.18.26.021@1.jpg",
+   "source_file": "0040_unbiased.jpg"
+  },
+  {
+   "target": "images/0113_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1280,
+    720
+   ],
+   "file": "8-UdwBkXJBI@2.jpg",
+   "archive_path": "vcr1images/movieclips_Meatballs/8-UdwBkXJBI@2.jpg",
+   "source_file": "0113_unbiased.jpg"
+  },
+  {
+   "target": "images/0193_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1280,
+    720
+   ],
+   "file": "pWPn-C5l3Sk@22.jpg",
+   "archive_path": "vcr1images/movieclips_Meatballs/pWPn-C5l3Sk@22.jpg",
+   "source_file": "0193_unbiased.jpg"
+  },
+  {
+   "target": "images/0194_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1920,
+    1080
+   ],
+   "file": "0010_Frau_Ohne_Gewissen_00.07.57.285-00.07.57.460@0.jpg",
+   "archive_path": "vcr1images/lsmdc_0010_Frau_Ohne_Gewissen/0010_Frau_Ohne_Gewissen_00.07.57.285-00.07.57.460@0.jpg",
+   "source_file": "0194_unbiased.jpg"
+  },
+  {
+   "target": "images/0234.jpg",
+   "role": "shared",
+   "size": [
+    1920,
+    1080
+   ],
+   "file": "0014_Ist_das_Leben_nicht_schoen_01.36.24.858-01.36.28.899@0.jpg",
+   "archive_path": "vcr1images/lsmdc_0014_Ist_das_Leben_nicht_schoen/0014_Ist_das_Leben_nicht_schoen_01.36.24.858-01.36.28.899@0.jpg",
+   "source_file": "0234.jpg"
+  },
+  {
+   "target": "images/0249.jpg",
+   "role": "shared",
+   "size": [
+    1920,
+    816
+   ],
+   "file": "3036_IN_TIME_01.32.50.953-01.32.51.823@0.jpg",
+   "archive_path": "vcr1images/lsmdc_3036_IN_TIME/3036_IN_TIME_01.32.50.953-01.32.51.823@0.jpg",
+   "source_file": "0249.jpg"
+  },
+  {
+   "target": "images/0299.jpg",
+   "role": "shared",
+   "size": [
+    1920,
+    822
+   ],
+   "file": "0016_O_Brother_Where_Art_Thou_00.55.21.641-00.55.24.817@0.jpg",
+   "archive_path": "vcr1images/lsmdc_0016_O_Brother_Where_Art_Thou/0016_O_Brother_Where_Art_Thou_00.55.21.641-00.55.24.817@0.jpg",
+   "source_file": "0299.jpg"
+  },
+  {
+   "target": "images/0322.jpg",
+   "role": "shared",
+   "size": [
+    1280,
+    720
+   ],
+   "file": "0WjELXl_6zA@33.jpg",
+   "archive_path": "vcr1images/movieclips_Eagle_vs_Shark/0WjELXl_6zA@33.jpg",
+   "source_file": "0322.jpg"
+  },
+  {
+   "target": "images/0352.jpg",
+   "role": "shared",
+   "size": [
+    1920,
+    808
+   ],
+   "file": "1020_Crazy_Stupid_Love_01.04.36.136-01.04.45.881@0.jpg",
+   "archive_path": "vcr1images/lsmdc_1020_Crazy_Stupid_Love/1020_Crazy_Stupid_Love_01.04.36.136-01.04.45.881@0.jpg",
+   "source_file": "0352.jpg"
+  },
+  {
+   "target": "images/0394.jpg",
+   "role": "shared",
+   "size": [
+    1920,
+    808
+   ],
+   "file": "1020_Crazy_Stupid_Love_00.03.55.423-00.03.56.598@0.jpg",
+   "archive_path": "vcr1images/lsmdc_1020_Crazy_Stupid_Love/1020_Crazy_Stupid_Love_00.03.55.423-00.03.56.598@0.jpg",
+   "source_file": "0394.jpg"
+  },
+  {
+   "target": "images/0404.jpg",
+   "role": "shared",
+   "size": [
+    1920,
+    1080
+   ],
+   "file": "7T5KMMZfc_U@33.jpg",
+   "archive_path": "vcr1images/movieclips_Think_Like_a_Man_Too/7T5KMMZfc_U@33.jpg",
+   "source_file": "0404.jpg"
+  },
+  {
+   "target": "images/0411_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1920,
+    824
+   ],
+   "file": "0050_Indiana_Jones_and_the_last_crusade_01.43.57.799-01.44.08.077@2.jpg",
+   "archive_path": "vcr1images/lsmdc_0050_Indiana_Jones_and_the_last_crusade/0050_Indiana_Jones_and_the_last_crusade_01.43.57.799-01.44.08.077@2.jpg",
+   "source_file": "0411_unbiased.jpg"
+  },
+  {
+   "target": "images/0469_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1920,
+    808
+   ],
+   "file": "3005_ABRAHAM_LINCOLN_VAMPIRE_HUNTER_00.16.17.408-00.16.18.240@0.jpg",
+   "archive_path": "vcr1images/lsmdc_3005_ABRAHAM_LINCOLN_VAMPIRE_HUNTER/3005_ABRAHAM_LINCOLN_VAMPIRE_HUNTER_00.16.17.408-00.16.18.240@0.jpg",
+   "source_file": "0469_unbiased.jpg"
+  },
+  {
+   "target": "images/0472_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1920,
+    1080
+   ],
+   "file": "0SUcAyNL198@34.jpg",
+   "archive_path": "vcr1images/movieclips_Lost_and_Delirious/0SUcAyNL198@34.jpg",
+   "source_file": "0472_unbiased.jpg"
+  },
+  {
+   "target": "images/0505_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1920,
+    824
+   ],
+   "file": "0050_Indiana_Jones_and_the_last_crusade_00.22.40.050-00.22.43.700@1.jpg",
+   "archive_path": "vcr1images/lsmdc_0050_Indiana_Jones_and_the_last_crusade/0050_Indiana_Jones_and_the_last_crusade_00.22.40.050-00.22.43.700@1.jpg",
+   "source_file": "0505_unbiased.jpg"
+  },
+  {
+   "target": "images/0509_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1920,
+    1080
+   ],
+   "file": "thhYv6-lz9A@1.jpg",
+   "archive_path": "vcr1images/movieclips_Rocky_II/thhYv6-lz9A@1.jpg",
+   "source_file": "0509_unbiased.jpg"
+  },
+  {
+   "target": "images/0606_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1280,
+    720
+   ],
+   "file": "-c9-2KcnLXI@24.jpg",
+   "archive_path": "vcr1images/movieclips_Twilight_New_Moon/-c9-2KcnLXI@24.jpg",
+   "source_file": "0606_unbiased.jpg"
+  },
+  {
+   "target": "images/0622.jpg",
+   "role": "shared",
+   "size": [
+    1280,
+    658
+   ],
+   "file": "GBGdp2p0T30@12.jpg",
+   "archive_path": "vcr1images/movieclips_The_Wings_of_the_Dove/GBGdp2p0T30@12.jpg",
+   "source_file": "0622.jpg"
+  },
+  {
+   "target": "images/0671.jpg",
+   "role": "shared",
+   "size": [
+    1920,
+    1080
+   ],
+   "file": "fLjZJgc1nvo@6.jpg",
+   "archive_path": "vcr1images/movieclips_Lulu_on_the_Bridge/fLjZJgc1nvo@6.jpg",
+   "source_file": "0671.jpg"
+  },
+  {
+   "target": "images/0727.jpg",
+   "role": "shared",
+   "size": [
+    1920,
+    804
+   ],
+   "file": "3031_HANSEL_GRETEL_WITCH_HUNTERS_00.12.17.545-00.12.33.198@5.jpg",
+   "archive_path": "vcr1images/lsmdc_3031_HANSEL_GRETEL_WITCH_HUNTERS/3031_HANSEL_GRETEL_WITCH_HUNTERS_00.12.17.545-00.12.33.198@5.jpg",
+   "source_file": "0727.jpg"
+  },
+  {
+   "target": "images/0732.jpg",
+   "role": "shared",
+   "size": [
+    1280,
+    720
+   ],
+   "file": "P9Fg8M0JCHE@4.jpg",
+   "archive_path": "vcr1images/movieclips_Lottery_Ticket/P9Fg8M0JCHE@4.jpg",
+   "source_file": "0732.jpg"
+  },
+  {
+   "target": "images/0762.jpg",
+   "role": "shared",
+   "size": [
+    1920,
+    816
+   ],
+   "file": "Dv-ibHmFlS8@38.jpg",
+   "archive_path": "vcr1images/movieclips_Ghost_Team/Dv-ibHmFlS8@38.jpg",
+   "source_file": "0762.jpg"
+  },
+  {
+   "target": "images/0776.jpg",
+   "role": "shared",
+   "size": [
+    1920,
+    797
+   ],
+   "file": "1054_Harry_Potter_and_the_prisoner_of_azkaban_00.22.41.003-00.22.45.593@0.jpg",
+   "archive_path": "vcr1images/lsmdc_1054_Harry_Potter_and_the_prisoner_of_azkaban/1054_Harry_Potter_and_the_prisoner_of_azkaban_00.22.41.003-00.22.45.593@0.jpg",
+   "source_file": "0776.jpg"
+  },
+  {
+   "target": "images/0794.jpg",
+   "role": "shared",
+   "size": [
+    1920,
+    1080
+   ],
+   "file": "bchPm7InHcg@7.jpg",
+   "archive_path": "vcr1images/movieclips_Rocky_II/bchPm7InHcg@7.jpg",
+   "source_file": "0794.jpg"
+  },
+  {
+   "target": "images/0805.jpg",
+   "role": "shared",
+   "size": [
+    1920,
+    824
+   ],
+   "file": "0050_Indiana_Jones_and_the_last_crusade_01.22.18.582-01.22.21.470@0.jpg",
+   "archive_path": "vcr1images/lsmdc_0050_Indiana_Jones_and_the_last_crusade/0050_Indiana_Jones_and_the_last_crusade_01.22.18.582-01.22.21.470@0.jpg",
+   "source_file": "0805.jpg"
+  },
+  {
+   "target": "images/0817_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1920,
+    804
+   ],
+   "file": "3031_HANSEL_GRETEL_WITCH_HUNTERS_00.52.10.906-00.52.15.082@0.jpg",
+   "archive_path": "vcr1images/lsmdc_3031_HANSEL_GRETEL_WITCH_HUNTERS/3031_HANSEL_GRETEL_WITCH_HUNTERS_00.52.10.906-00.52.15.082@0.jpg",
+   "source_file": "0817_unbiased.jpg"
+  },
+  {
+   "target": "images/0825_biased.jpg",
+   "role": "biased",
+   "size": [
+    1920,
+    1080
+   ],
+   "file": "1044_Pride_And_Prejudice_Disk_Two_00.37.10.556-00.37.13.609@0.jpg",
+   "archive_path": "vcr1images/lsmdc_1044_Pride_And_Prejudice_Disk_Two/1044_Pride_And_Prejudice_Disk_Two_00.37.10.556-00.37.13.609@0.jpg",
+   "source_file": "0825_biased.jpg"
+  },
+  {
+   "target": "images/0865_biased.jpg",
+   "role": "biased",
+   "size": [
+    1920,
+    1080
+   ],
+   "file": "1044_Pride_And_Prejudice_Disk_Two_02.34.42.911-02.34.50.578@0.jpg",
+   "archive_path": "vcr1images/lsmdc_1044_Pride_And_Prejudice_Disk_Two/1044_Pride_And_Prejudice_Disk_Two_02.34.42.911-02.34.50.578@0.jpg",
+   "source_file": "0865_biased.jpg"
+  },
+  {
+   "target": "images/0869_biased.jpg",
+   "role": "biased",
+   "size": [
+    1280,
+    720
+   ],
+   "file": "PdmE-Ga0f5s@29.jpg",
+   "archive_path": "vcr1images/movieclips_Waiting.../PdmE-Ga0f5s@29.jpg",
+   "source_file": "0869_biased.jpg"
+  },
+  {
+   "target": "images/0874_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1920,
+    808
+   ],
+   "file": "3005_ABRAHAM_LINCOLN_VAMPIRE_HUNTER_01.15.44.170-01.15.45.467@0.jpg",
+   "archive_path": "vcr1images/lsmdc_3005_ABRAHAM_LINCOLN_VAMPIRE_HUNTER/3005_ABRAHAM_LINCOLN_VAMPIRE_HUNTER_01.15.44.170-01.15.45.467@0.jpg",
+   "source_file": "0874_unbiased.jpg"
+  },
+  {
+   "target": "images/0888_biased.jpg",
+   "role": "biased",
+   "size": [
+    1280,
+    720
+   ],
+   "file": "L-IoFdCv_Hs@28.jpg",
+   "archive_path": "vcr1images/movieclips_Cloak__Dagger/L-IoFdCv_Hs@28.jpg",
+   "source_file": "0888_biased.jpg"
+  },
+  {
+   "target": "images/0889_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1920,
+    1080
+   ],
+   "file": "0010_Frau_Ohne_Gewissen_00.39.43.100-00.39.44.152@0.jpg",
+   "archive_path": "vcr1images/lsmdc_0010_Frau_Ohne_Gewissen/0010_Frau_Ohne_Gewissen_00.39.43.100-00.39.44.152@0.jpg",
+   "source_file": "0889_unbiased.jpg"
+  },
+  {
+   "target": "images/0911_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1920,
+    808
+   ],
+   "file": "1020_Crazy_Stupid_Love_01.32.36.705-01.32.37.988@0.jpg",
+   "archive_path": "vcr1images/lsmdc_1020_Crazy_Stupid_Love/1020_Crazy_Stupid_Love_01.32.36.705-01.32.37.988@0.jpg",
+   "source_file": "0911_unbiased.jpg"
+  },
+  {
+   "target": "images/0918_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1280,
+    720
+   ],
+   "file": "L-IoFdCv_Hs@28.jpg",
+   "archive_path": "vcr1images/movieclips_Cloak__Dagger/L-IoFdCv_Hs@28.jpg",
+   "source_file": "0918_unbiased.jpg"
+  },
+  {
+   "target": "images/0941_biased.jpg",
+   "role": "biased",
+   "size": [
+    1920,
+    824
+   ],
+   "file": "0050_Indiana_Jones_and_the_last_crusade_01.43.57.799-01.44.08.077@2.jpg",
+   "archive_path": "vcr1images/lsmdc_0050_Indiana_Jones_and_the_last_crusade/0050_Indiana_Jones_and_the_last_crusade_01.43.57.799-01.44.08.077@2.jpg",
+   "source_file": "0941_biased.jpg"
+  },
+  {
+   "target": "images/0956_biased.jpg",
+   "role": "biased",
+   "size": [
+    1920,
+    1080
+   ],
+   "file": "0010_Frau_Ohne_Gewissen_01.01.36.232-01.01.37.134@0.jpg",
+   "archive_path": "vcr1images/lsmdc_0010_Frau_Ohne_Gewissen/0010_Frau_Ohne_Gewissen_01.01.36.232-01.01.37.134@0.jpg",
+   "source_file": "0956_biased.jpg"
+  },
+  {
+   "target": "images/0962_biased.jpg",
+   "role": "biased",
+   "size": [
+    1920,
+    1080
+   ],
+   "file": "0010_Frau_Ohne_Gewissen_00.39.43.100-00.39.44.152@0.jpg",
+   "archive_path": "vcr1images/lsmdc_0010_Frau_Ohne_Gewissen/0010_Frau_Ohne_Gewissen_00.39.43.100-00.39.44.152@0.jpg",
+   "source_file": "0962_biased.jpg"
+  },
+  {
+   "target": "images/0975_biased.jpg",
+   "role": "biased",
+   "size": [
+    1280,
+    720
+   ],
+   "file": "JqDOosChydc@6.jpg",
+   "archive_path": "vcr1images/movieclips_The_Professional/JqDOosChydc@6.jpg",
+   "source_file": "0975_biased.jpg"
+  },
+  {
+   "target": "images/0984_biased.jpg",
+   "role": "biased",
+   "size": [
+    1920,
+    797
+   ],
+   "file": "1054_Harry_Potter_and_the_prisoner_of_azkaban_00.22.41.003-00.22.45.593@0.jpg",
+   "archive_path": "vcr1images/lsmdc_1054_Harry_Potter_and_the_prisoner_of_azkaban/1054_Harry_Potter_and_the_prisoner_of_azkaban_00.22.41.003-00.22.45.593@0.jpg",
+   "source_file": "0984_biased.jpg"
+  },
+  {
+   "target": "images/0993_biased.jpg",
+   "role": "biased",
+   "size": [
+    1280,
+    707
+   ],
+   "file": "dEnoofPhBtE@15.jpg",
+   "archive_path": "vcr1images/movieclips_The_Long_Riders/dEnoofPhBtE@15.jpg",
+   "source_file": "0993_biased.jpg"
+  },
+  {
+   "target": "images/1002_biased.jpg",
+   "role": "biased",
+   "size": [
+    1920,
+    1043
+   ],
+   "file": "3088_WHATS_YOUR_NUMBER_00.51.55.767-00.52.00.744@0.jpg",
+   "archive_path": "vcr1images/lsmdc_3088_WHATS_YOUR_NUMBER/3088_WHATS_YOUR_NUMBER_00.51.55.767-00.52.00.744@0.jpg",
+   "source_file": "1002_biased.jpg"
+  },
+  {
+   "target": "images/1051.jpg",
+   "role": "shared",
+   "size": [
+    1920,
+    1080
+   ],
+   "file": "1044_Pride_And_Prejudice_Disk_Two_02.34.42.911-02.34.50.578@0.jpg",
+   "archive_path": "vcr1images/lsmdc_1044_Pride_And_Prejudice_Disk_Two/1044_Pride_And_Prejudice_Disk_Two_02.34.42.911-02.34.50.578@0.jpg",
+   "source_file": "1051.jpg"
+  },
+  {
+   "target": "images/1054.jpg",
+   "role": "shared",
+   "size": [
+    1920,
+    1043
+   ],
+   "file": "3088_WHATS_YOUR_NUMBER_01.36.11.334-01.36.17.148@0.jpg",
+   "archive_path": "vcr1images/lsmdc_3088_WHATS_YOUR_NUMBER/3088_WHATS_YOUR_NUMBER_01.36.11.334-01.36.17.148@0.jpg",
+   "source_file": "1054.jpg"
+  },
+  {
+   "target": "images/1114.jpg",
+   "role": "shared",
+   "size": [
+    1920,
+    1080
+   ],
+   "file": "djUYiJu6K48@18.jpg",
+   "archive_path": "vcr1images/movieclips_Cheaper_by_the_Dozen_2/djUYiJu6K48@18.jpg",
+   "source_file": "1114.jpg"
+  },
+  {
+   "target": "images/1126.jpg",
+   "role": "shared",
+   "size": [
+    1920,
+    1080
+   ],
+   "file": "MdI5DrJ6V3k@16.jpg",
+   "archive_path": "vcr1images/movieclips_The_Green_Hornet/MdI5DrJ6V3k@16.jpg",
+   "source_file": "1126.jpg"
+  },
+  {
+   "target": "images/1134.jpg",
+   "role": "shared",
+   "size": [
+    1920,
+    822
+   ],
+   "file": "0016_O_Brother_Where_Art_Thou_01.42.19.095-01.42.29.403@0.jpg",
+   "archive_path": "vcr1images/lsmdc_0016_O_Brother_Where_Art_Thou/0016_O_Brother_Where_Art_Thou_01.42.19.095-01.42.29.403@0.jpg",
+   "source_file": "1134.jpg"
+  },
+  {
+   "target": "images/1185.jpg",
+   "role": "shared",
+   "size": [
+    1280,
+    720
+   ],
+   "file": "uopoXtR0Kjk@20.jpg",
+   "archive_path": "vcr1images/movieclips_Stardust/uopoXtR0Kjk@20.jpg",
+   "source_file": "1185.jpg"
+  },
+  {
+   "target": "images/1322_biased.jpg",
+   "role": "biased",
+   "size": [
+    1920,
+    822
+   ],
+   "file": "1010_TITANIC_01.08.31.783-01.08.36.163@0.jpg",
+   "archive_path": "vcr1images/lsmdc_1010_TITANIC/1010_TITANIC_01.08.31.783-01.08.36.163@0.jpg",
+   "source_file": "1322_biased.jpg"
+  },
+  {
+   "target": "images/1362_biased.jpg",
+   "role": "biased",
+   "size": [
+    1920,
+    822
+   ],
+   "file": "1010_TITANIC_02.11.20.366-02.11.21.415@0.jpg",
+   "archive_path": "vcr1images/lsmdc_1010_TITANIC/1010_TITANIC_02.11.20.366-02.11.21.415@0.jpg",
+   "source_file": "1362_biased.jpg"
+  },
+  {
+   "target": "images/1449_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1920,
+    1080
+   ],
+   "file": "0014_Ist_das_Leben_nicht_schoen_00.10.05.453-00.10.06.667@0.jpg",
+   "archive_path": "vcr1images/lsmdc_0014_Ist_das_Leben_nicht_schoen/0014_Ist_das_Leben_nicht_schoen_00.10.05.453-00.10.06.667@0.jpg",
+   "source_file": "1449_unbiased.jpg"
+  },
+  {
+   "target": "images/1473_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1280,
+    720
+   ],
+   "file": "PdmE-Ga0f5s@29.jpg",
+   "archive_path": "vcr1images/movieclips_Waiting.../PdmE-Ga0f5s@29.jpg",
+   "source_file": "1473_unbiased.jpg"
+  },
+  {
+   "target": "images/1475_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1920,
+    822
+   ],
+   "file": "1010_TITANIC_01.09.31.386-01.09.40.674@3.jpg",
+   "archive_path": "vcr1images/lsmdc_1010_TITANIC/1010_TITANIC_01.09.31.386-01.09.40.674@3.jpg",
+   "source_file": "1475_unbiased.jpg"
+  },
+  {
+   "target": "images/1523_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1280,
+    720
+   ],
+   "file": "LnqAE4Rjdqk@21.jpg",
+   "archive_path": "vcr1images/movieclips_Dirty_Dancing/LnqAE4Rjdqk@21.jpg",
+   "source_file": "1523_unbiased.jpg"
+  },
+  {
+   "target": "images/1599_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1920,
+    822
+   ],
+   "file": "1010_TITANIC_00.55.17.250-00.55.26.329@0.jpg",
+   "archive_path": "vcr1images/lsmdc_1010_TITANIC/1010_TITANIC_00.55.17.250-00.55.26.329@0.jpg",
+   "source_file": "1599_unbiased.jpg"
+  },
+  {
+   "target": "images/1626_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1920,
+    1080
+   ],
+   "file": "Rs28rq81pGo@3.jpg",
+   "archive_path": "vcr1images/movieclips_Hostel/Rs28rq81pGo@3.jpg",
+   "source_file": "1626_unbiased.jpg"
+  },
+  {
+   "target": "images/1659_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1920,
+    1080
+   ],
+   "file": "1044_Pride_And_Prejudice_Disk_Two_00.37.10.556-00.37.13.609@0.jpg",
+   "archive_path": "vcr1images/lsmdc_1044_Pride_And_Prejudice_Disk_Two/1044_Pride_And_Prejudice_Disk_Two_00.37.10.556-00.37.13.609@0.jpg",
+   "source_file": "1659_unbiased.jpg"
+  },
+  {
+   "target": "images/1752_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1920,
+    822
+   ],
+   "file": "1010_TITANIC_01.50.23.357-01.50.27.024@0.jpg",
+   "archive_path": "vcr1images/lsmdc_1010_TITANIC/1010_TITANIC_01.50.23.357-01.50.27.024@0.jpg",
+   "source_file": "1752_unbiased.jpg"
+  },
+  {
+   "target": "images/1761_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1280,
+    720
+   ],
+   "file": "JqDOosChydc@6.jpg",
+   "archive_path": "vcr1images/movieclips_The_Professional/JqDOosChydc@6.jpg",
+   "source_file": "1761_unbiased.jpg"
+  },
+  {
+   "target": "images/1764_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1920,
+    1043
+   ],
+   "file": "3088_WHATS_YOUR_NUMBER_00.51.55.767-00.52.00.744@0.jpg",
+   "archive_path": "vcr1images/lsmdc_3088_WHATS_YOUR_NUMBER/3088_WHATS_YOUR_NUMBER_00.51.55.767-00.52.00.744@0.jpg",
+   "source_file": "1764_unbiased.jpg"
+  }
+ ]
+}

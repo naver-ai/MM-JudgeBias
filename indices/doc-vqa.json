@@ -1,0 +1,1217 @@
+{
+ "dataset": "doc-vqa",
+ "n": 110,
+ "covered": 110,
+ "samples": [
+  {
+   "target": "images/0101_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    2284,
+    1807
+   ],
+   "file": "pqxf0227_1.png",
+   "archive_path": "pqxf0227_1.png",
+   "source_file": "0101_unbiased.jpg"
+  },
+  {
+   "target": "images/0106_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1784,
+    2279
+   ],
+   "file": "jzhd0227_16.png",
+   "archive_path": "jzhd0227_16.png",
+   "source_file": "0106_unbiased.jpg"
+  },
+  {
+   "target": "images/0121_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1289,
+    1940
+   ],
+   "file": "jxbb0228_10.png",
+   "archive_path": "jxbb0228_10.png",
+   "source_file": "0121_unbiased.jpg"
+  },
+  {
+   "target": "images/0130_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    2214,
+    1717
+   ],
+   "file": "mpwx0225_9.png",
+   "archive_path": "mpwx0225_9.png",
+   "source_file": "0130_unbiased.jpg"
+  },
+  {
+   "target": "images/0186_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1762,
+    2248
+   ],
+   "file": "gknp0227_6.png",
+   "archive_path": "gknp0227_6.png",
+   "source_file": "0186_unbiased.jpg"
+  },
+  {
+   "target": "images/0203_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    2198,
+    1700
+   ],
+   "file": "xkbw0217_52.png",
+   "archive_path": "xkbw0217_52.png",
+   "source_file": "0203_unbiased.jpg"
+  },
+  {
+   "target": "images/0213.jpg",
+   "role": "shared",
+   "size": [
+    1783,
+    2287
+   ],
+   "file": "lglg0227_34.png",
+   "archive_path": "lglg0227_34.png",
+   "source_file": "0213.jpg"
+  },
+  {
+   "target": "images/0220.jpg",
+   "role": "shared",
+   "size": [
+    1778,
+    2287
+   ],
+   "file": "mswg0227_11.png",
+   "archive_path": "mswg0227_11.png",
+   "source_file": "0220.jpg"
+  },
+  {
+   "target": "images/0252.jpg",
+   "role": "shared",
+   "size": [
+    1701,
+    2201
+   ],
+   "file": "glxn0226_4.png",
+   "archive_path": "glxn0226_4.png",
+   "source_file": "0252.jpg"
+  },
+  {
+   "target": "images/0260.jpg",
+   "role": "shared",
+   "size": [
+    1709,
+    2270
+   ],
+   "file": "jpgn0226_221.png",
+   "archive_path": "jpgn0226_221.png",
+   "source_file": "0260.jpg"
+  },
+  {
+   "target": "images/0290.jpg",
+   "role": "shared",
+   "size": [
+    2200,
+    1703
+   ],
+   "file": "mybw0217_5.png",
+   "archive_path": "mybw0217_5.png",
+   "source_file": "0290.jpg"
+  },
+  {
+   "target": "images/0306.jpg",
+   "role": "shared",
+   "size": [
+    1692,
+    2245
+   ],
+   "file": "pfcn0020_2.png",
+   "archive_path": "pfcn0020_2.png",
+   "source_file": "0306.jpg"
+  },
+  {
+   "target": "images/0308.jpg",
+   "role": "shared",
+   "size": [
+    2200,
+    1700
+   ],
+   "file": "fhxn0226_2.png",
+   "archive_path": "fhxn0226_2.png",
+   "source_file": "0308.jpg"
+  },
+  {
+   "target": "images/0310.jpg",
+   "role": "shared",
+   "size": [
+    1664,
+    868
+   ],
+   "file": "hrcy0227_4.png",
+   "archive_path": "hrcy0227_4.png",
+   "source_file": "0310.jpg"
+  },
+  {
+   "target": "images/0349.jpg",
+   "role": "shared",
+   "size": [
+    1609,
+    2135
+   ],
+   "file": "jhbl0226_45.png",
+   "archive_path": "jhbl0226_45.png",
+   "source_file": "0349.jpg"
+  },
+  {
+   "target": "images/0370.jpg",
+   "role": "shared",
+   "size": [
+    1792,
+    2288
+   ],
+   "file": "kzng0227_60.png",
+   "archive_path": "kzng0227_60.png",
+   "source_file": "0370.jpg"
+  },
+  {
+   "target": "images/0379.jpg",
+   "role": "shared",
+   "size": [
+    1682,
+    2384
+   ],
+   "file": "hqgb0228_1.png",
+   "archive_path": "hqgb0228_1.png",
+   "source_file": "0379.jpg"
+  },
+  {
+   "target": "images/0396.jpg",
+   "role": "shared",
+   "size": [
+    2282,
+    1784
+   ],
+   "file": "kfhd0227_22.png",
+   "archive_path": "kfhd0227_22.png",
+   "source_file": "0396.jpg"
+  },
+  {
+   "target": "images/0403.jpg",
+   "role": "shared",
+   "size": [
+    4211,
+    1635
+   ],
+   "file": "spnf0227_5.png",
+   "archive_path": "spnf0227_5.png",
+   "source_file": "0403.jpg"
+  },
+  {
+   "target": "images/0415_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1772,
+    2272
+   ],
+   "file": "qqjw0228_8.png",
+   "archive_path": "qqjw0228_8.png",
+   "source_file": "0415_unbiased.jpg"
+  },
+  {
+   "target": "images/0416_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1695,
+    2200
+   ],
+   "file": "lnmm0081_6.png",
+   "archive_path": "lnmm0081_6.png",
+   "source_file": "0416_unbiased.jpg"
+  },
+  {
+   "target": "images/0428_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1690,
+    2182
+   ],
+   "file": "khnk0226_4.png",
+   "archive_path": "khnk0226_4.png",
+   "source_file": "0428_unbiased.jpg"
+  },
+  {
+   "target": "images/0429_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1490,
+    652
+   ],
+   "file": "skdv0228_14.png",
+   "archive_path": "skdv0228_14.png",
+   "source_file": "0429_unbiased.jpg"
+  },
+  {
+   "target": "images/0434_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1692,
+    2245
+   ],
+   "file": "lfng0023_3.png",
+   "archive_path": "lfng0023_3.png",
+   "source_file": "0434_unbiased.jpg"
+  },
+  {
+   "target": "images/0435_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1701,
+    2386
+   ],
+   "file": "snbx0223_4.png",
+   "archive_path": "snbx0223_4.png",
+   "source_file": "0435_unbiased.jpg"
+  },
+  {
+   "target": "images/0451_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1188,
+    736
+   ],
+   "file": "rjgg0227_1.png",
+   "archive_path": "rjgg0227_1.png",
+   "source_file": "0451_unbiased.jpg"
+  },
+  {
+   "target": "images/0473_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1692,
+    2245
+   ],
+   "file": "lkgp0000_2.png",
+   "archive_path": "lkgp0000_2.png",
+   "source_file": "0473_unbiased.jpg"
+  },
+  {
+   "target": "images/0489_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1672,
+    1902
+   ],
+   "file": "lmmf0227_3.png",
+   "archive_path": "lmmf0227_3.png",
+   "source_file": "0489_unbiased.jpg"
+  },
+  {
+   "target": "images/0527_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1701,
+    2386
+   ],
+   "file": "snbx0223_9.png",
+   "archive_path": "snbx0223_9.png",
+   "source_file": "0527_unbiased.jpg"
+  },
+  {
+   "target": "images/0543_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1653,
+    2275
+   ],
+   "file": "jybx0223_85.png",
+   "archive_path": "jybx0223_85.png",
+   "source_file": "0543_unbiased.jpg"
+  },
+  {
+   "target": "images/0547_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1786,
+    2283
+   ],
+   "file": "mhvd0227_7.png",
+   "archive_path": "mhvd0227_7.png",
+   "source_file": "0547_unbiased.jpg"
+  },
+  {
+   "target": "images/0594_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1786,
+    2287
+   ],
+   "file": "zqgc0228_7.png",
+   "archive_path": "zqgc0228_7.png",
+   "source_file": "0594_unbiased.jpg"
+  },
+  {
+   "target": "images/0651.jpg",
+   "role": "shared",
+   "size": [
+    1749,
+    2251
+   ],
+   "file": "gscv0228_6.png",
+   "archive_path": "gscv0228_6.png",
+   "source_file": "0651.jpg"
+  },
+  {
+   "target": "images/0659.jpg",
+   "role": "shared",
+   "size": [
+    1700,
+    2236
+   ],
+   "file": "ptjf0226_3.png",
+   "archive_path": "ptjf0226_3.png",
+   "source_file": "0659.jpg"
+  },
+  {
+   "target": "images/0685.jpg",
+   "role": "shared",
+   "size": [
+    1692,
+    2245
+   ],
+   "file": "flxn0020_1.png",
+   "archive_path": "flxn0020_1.png",
+   "source_file": "0685.jpg"
+  },
+  {
+   "target": "images/0696.jpg",
+   "role": "shared",
+   "size": [
+    1695,
+    2167
+   ],
+   "file": "nqnn0081_33.png",
+   "archive_path": "nqnn0081_33.png",
+   "source_file": "0696.jpg"
+  },
+  {
+   "target": "images/0752.jpg",
+   "role": "shared",
+   "size": [
+    1790,
+    2285
+   ],
+   "file": "fgvh0227_91.png",
+   "archive_path": "fgvh0227_91.png",
+   "source_file": "0752.jpg"
+  },
+  {
+   "target": "images/0761.jpg",
+   "role": "shared",
+   "size": [
+    1700,
+    2200
+   ],
+   "file": "fggn0226_48.png",
+   "archive_path": "fggn0226_48.png",
+   "source_file": "0761.jpg"
+  },
+  {
+   "target": "images/0804.jpg",
+   "role": "shared",
+   "size": [
+    1692,
+    2245
+   ],
+   "file": "gmcd0003_1.png",
+   "archive_path": "gmcd0003_1.png",
+   "source_file": "0804.jpg"
+  },
+  {
+   "target": "images/0818_biased.jpg",
+   "role": "biased",
+   "size": [
+    2000,
+    1500
+   ],
+   "file": "fkxn0226_14.png",
+   "archive_path": "fkxn0226_14.png",
+   "source_file": "0818_biased.jpg"
+  },
+  {
+   "target": "images/0830_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1760,
+    2249
+   ],
+   "file": "mybv0228_13.png",
+   "archive_path": "mybv0228_13.png",
+   "source_file": "0830_unbiased.jpg"
+  },
+  {
+   "target": "images/0830_biased.jpg",
+   "role": "biased",
+   "size": [
+    1750,
+    2196
+   ],
+   "file": "zznp0227_107.png",
+   "archive_path": "zznp0227_107.png",
+   "source_file": "0830_biased.jpg"
+  },
+  {
+   "target": "images/0840_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    2284,
+    1786
+   ],
+   "file": "jjvg0227_6.png",
+   "archive_path": "jjvg0227_6.png",
+   "source_file": "0840_unbiased.jpg"
+  },
+  {
+   "target": "images/0854_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1680,
+    2190
+   ],
+   "file": "pxlg0227_2.png",
+   "archive_path": "pxlg0227_2.png",
+   "source_file": "0854_unbiased.jpg"
+  },
+  {
+   "target": "images/0857_biased.jpg",
+   "role": "biased",
+   "size": [
+    2872,
+    1784
+   ],
+   "file": "klnf0227_1.png",
+   "archive_path": "klnf0227_1.png",
+   "source_file": "0857_biased.jpg"
+  },
+  {
+   "target": "images/0858_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1883,
+    1258
+   ],
+   "file": "snkw0227_9.png",
+   "archive_path": "snkw0227_9.png",
+   "source_file": "0858_unbiased.jpg"
+  },
+  {
+   "target": "images/0866_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1750,
+    2246
+   ],
+   "file": "rkbd0228_1.png",
+   "archive_path": "rkbd0228_1.png",
+   "source_file": "0866_unbiased.jpg"
+  },
+  {
+   "target": "images/0875_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1784,
+    2284
+   ],
+   "file": "qfvg0227_2.png",
+   "archive_path": "qfvg0227_2.png",
+   "source_file": "0875_unbiased.jpg"
+  },
+  {
+   "target": "images/0881_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1692,
+    2245
+   ],
+   "file": "hhnf0094_5.png",
+   "archive_path": "hhnf0094_5.png",
+   "source_file": "0881_unbiased.jpg"
+  },
+  {
+   "target": "images/0896_biased.jpg",
+   "role": "biased",
+   "size": [
+    1890,
+    1262
+   ],
+   "file": "zxjd0228_9.png",
+   "archive_path": "zxjd0228_9.png",
+   "source_file": "0896_biased.jpg"
+  },
+  {
+   "target": "images/0900_biased.jpg",
+   "role": "biased",
+   "size": [
+    2198,
+    1700
+   ],
+   "file": "xkbw0217_52.png",
+   "archive_path": "xkbw0217_52.png",
+   "source_file": "0900_biased.jpg"
+  },
+  {
+   "target": "images/0903_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1784,
+    2285
+   ],
+   "file": "pzbd0227_2.png",
+   "archive_path": "pzbd0227_2.png",
+   "source_file": "0903_unbiased.jpg"
+  },
+  {
+   "target": "images/0934_biased.jpg",
+   "role": "biased",
+   "size": [
+    1692,
+    2245
+   ],
+   "file": "hsfn0020_2.png",
+   "archive_path": "hsfn0020_2.png",
+   "source_file": "0934_biased.jpg"
+  },
+  {
+   "target": "images/0939_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1786,
+    2262
+   ],
+   "file": "gnnp0227_6.png",
+   "archive_path": "gnnp0227_6.png",
+   "source_file": "0939_unbiased.jpg"
+  },
+  {
+   "target": "images/0944_biased.jpg",
+   "role": "biased",
+   "size": [
+    1609,
+    2135
+   ],
+   "file": "jhbl0226_45.png",
+   "archive_path": "jhbl0226_45.png",
+   "source_file": "0944_biased.jpg"
+  },
+  {
+   "target": "images/0951_biased.jpg",
+   "role": "biased",
+   "size": [
+    2284,
+    1807
+   ],
+   "file": "pqxf0227_1.png",
+   "archive_path": "pqxf0227_1.png",
+   "source_file": "0951_biased.jpg"
+  },
+  {
+   "target": "images/0963_biased.jpg",
+   "role": "biased",
+   "size": [
+    1701,
+    2386
+   ],
+   "file": "snbx0223_4.png",
+   "archive_path": "snbx0223_4.png",
+   "source_file": "0963_biased.jpg"
+  },
+  {
+   "target": "images/0966_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1782,
+    2285
+   ],
+   "file": "qtxb0228_1.png",
+   "archive_path": "qtxb0228_1.png",
+   "source_file": "0966_unbiased.jpg"
+  },
+  {
+   "target": "images/0973_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    2872,
+    1784
+   ],
+   "file": "klnf0227_1.png",
+   "archive_path": "klnf0227_1.png",
+   "source_file": "0973_unbiased.jpg"
+  },
+  {
+   "target": "images/0981_biased.jpg",
+   "role": "biased",
+   "size": [
+    2222,
+    1738
+   ],
+   "file": "htyp0227_3.png",
+   "archive_path": "htyp0227_3.png",
+   "source_file": "0981_biased.jpg"
+  },
+  {
+   "target": "images/0989_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1750,
+    2196
+   ],
+   "file": "zznp0227_107.png",
+   "archive_path": "zznp0227_107.png",
+   "source_file": "0989_unbiased.jpg"
+  },
+  {
+   "target": "images/0991_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1782,
+    2282
+   ],
+   "file": "jrcy0227_122.png",
+   "archive_path": "jrcy0227_122.png",
+   "source_file": "0991_unbiased.jpg"
+  },
+  {
+   "target": "images/1000_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1692,
+    2245
+   ],
+   "file": "stfg0065_1.png",
+   "archive_path": "stfg0065_1.png",
+   "source_file": "1000_unbiased.jpg"
+  },
+  {
+   "target": "images/1014_biased.jpg",
+   "role": "biased",
+   "size": [
+    1444,
+    2030
+   ],
+   "file": "mtgj0223_17.png",
+   "archive_path": "mtgj0223_17.png",
+   "source_file": "1014_biased.jpg"
+  },
+  {
+   "target": "images/1017_biased.jpg",
+   "role": "biased",
+   "size": [
+    1710,
+    2202
+   ],
+   "file": "sjbw0217_12.png",
+   "archive_path": "sjbw0217_12.png",
+   "source_file": "1017_biased.jpg"
+  },
+  {
+   "target": "images/1021.jpg",
+   "role": "shared",
+   "size": [
+    1790,
+    2295
+   ],
+   "file": "hqvd0227_19.png",
+   "archive_path": "hqvd0227_19.png",
+   "source_file": "1021.jpg"
+  },
+  {
+   "target": "images/1034.jpg",
+   "role": "shared",
+   "size": [
+    1689,
+    2183
+   ],
+   "file": "nllg0227_5.png",
+   "archive_path": "nllg0227_5.png",
+   "source_file": "1034.jpg"
+  },
+  {
+   "target": "images/1061.jpg",
+   "role": "shared",
+   "size": [
+    1700,
+    2200
+   ],
+   "file": "gggn0226_50.png",
+   "archive_path": "gggn0226_50.png",
+   "source_file": "1061.jpg"
+  },
+  {
+   "target": "images/1087.jpg",
+   "role": "shared",
+   "size": [
+    1653,
+    2339
+   ],
+   "file": "rnbx0223_204.png",
+   "archive_path": "rnbx0223_204.png",
+   "source_file": "1087.jpg"
+  },
+  {
+   "target": "images/1106.jpg",
+   "role": "shared",
+   "size": [
+    1808,
+    2311
+   ],
+   "file": "lynb0228_1.png",
+   "archive_path": "lynb0228_1.png",
+   "source_file": "1106.jpg"
+  },
+  {
+   "target": "images/1129.jpg",
+   "role": "shared",
+   "size": [
+    1784,
+    2284
+   ],
+   "file": "qfvg0227_2.png",
+   "archive_path": "qfvg0227_2.png",
+   "source_file": "1129.jpg"
+  },
+  {
+   "target": "images/1155.jpg",
+   "role": "shared",
+   "size": [
+    1692,
+    2245
+   ],
+   "file": "myjf0004_2.png",
+   "archive_path": "myjf0004_2.png",
+   "source_file": "1155.jpg"
+  },
+  {
+   "target": "images/1188.jpg",
+   "role": "shared",
+   "size": [
+    1756,
+    2238
+   ],
+   "file": "hnnp0227_20.png",
+   "archive_path": "hnnp0227_20.png",
+   "source_file": "1188.jpg"
+  },
+  {
+   "target": "images/1204.jpg",
+   "role": "shared",
+   "size": [
+    1786,
+    2277
+   ],
+   "file": "jfgg0227_3.png",
+   "archive_path": "jfgg0227_3.png",
+   "source_file": "1204.jpg"
+  },
+  {
+   "target": "images/1219_biased.jpg",
+   "role": "biased",
+   "size": [
+    2270,
+    1773
+   ],
+   "file": "qqvv0228_2.png",
+   "archive_path": "qqvv0228_2.png",
+   "source_file": "1219_biased.jpg"
+  },
+  {
+   "target": "images/1228_biased.jpg",
+   "role": "biased",
+   "size": [
+    2285,
+    1786
+   ],
+   "file": "ypbd0227_5.png",
+   "archive_path": "ypbd0227_5.png",
+   "source_file": "1228_biased.jpg"
+  },
+  {
+   "target": "images/1231_biased.jpg",
+   "role": "biased",
+   "size": [
+    1788,
+    2278
+   ],
+   "file": "jzhd0227_67.png",
+   "archive_path": "jzhd0227_67.png",
+   "source_file": "1231_biased.jpg"
+  },
+  {
+   "target": "images/1267_biased.jpg",
+   "role": "biased",
+   "size": [
+    1272,
+    1916
+   ],
+   "file": "rnjg0227_1.png",
+   "archive_path": "rnjg0227_1.png",
+   "source_file": "1267_biased.jpg"
+  },
+  {
+   "target": "images/1274_biased.jpg",
+   "role": "biased",
+   "size": [
+    1770,
+    2275
+   ],
+   "file": "ngxh0227_18.png",
+   "archive_path": "ngxh0227_18.png",
+   "source_file": "1274_biased.jpg"
+  },
+  {
+   "target": "images/1279_biased.jpg",
+   "role": "biased",
+   "size": [
+    1750,
+    2196
+   ],
+   "file": "zznp0227_107.png",
+   "archive_path": "zznp0227_107.png",
+   "source_file": "1279_biased.jpg"
+  },
+  {
+   "target": "images/1312_biased.jpg",
+   "role": "biased",
+   "size": [
+    1710,
+    2202
+   ],
+   "file": "sjbw0217_12.png",
+   "archive_path": "sjbw0217_12.png",
+   "source_file": "1312_biased.jpg"
+  },
+  {
+   "target": "images/1318_biased.jpg",
+   "role": "biased",
+   "size": [
+    1785,
+    2281
+   ],
+   "file": "qjcf0227_1.png",
+   "archive_path": "qjcf0227_1.png",
+   "source_file": "1318_biased.jpg"
+  },
+  {
+   "target": "images/1319_biased.jpg",
+   "role": "biased",
+   "size": [
+    1689,
+    2252
+   ],
+   "file": "kjnw0228_3.png",
+   "archive_path": "kjnw0228_3.png",
+   "source_file": "1319_biased.jpg"
+  },
+  {
+   "target": "images/1339_biased.jpg",
+   "role": "biased",
+   "size": [
+    1702,
+    2319
+   ],
+   "file": "ysbw0217_3.png",
+   "archive_path": "ysbw0217_3.png",
+   "source_file": "1339_biased.jpg"
+  },
+  {
+   "target": "images/1376_biased.jpg",
+   "role": "biased",
+   "size": [
+    1708,
+    2210
+   ],
+   "file": "fpbw0217_18.png",
+   "archive_path": "fpbw0217_18.png",
+   "source_file": "1376_biased.jpg"
+  },
+  {
+   "target": "images/1404_biased.jpg",
+   "role": "biased",
+   "size": [
+    1750,
+    2196
+   ],
+   "file": "zznp0227_107.png",
+   "archive_path": "zznp0227_107.png",
+   "source_file": "1404_biased.jpg"
+  },
+  {
+   "target": "images/1410_biased.jpg",
+   "role": "biased",
+   "size": [
+    1790,
+    2272
+   ],
+   "file": "gfhv0228_1.png",
+   "archive_path": "gfhv0228_1.png",
+   "source_file": "1410_biased.jpg"
+  },
+  {
+   "target": "images/1420_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1692,
+    2245
+   ],
+   "file": "fqdg0072_10.png",
+   "archive_path": "fqdg0072_10.png",
+   "source_file": "1420_unbiased.jpg"
+  },
+  {
+   "target": "images/1423_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1780,
+    2286
+   ],
+   "file": "yncd0227_2.png",
+   "archive_path": "yncd0227_2.png",
+   "source_file": "1423_unbiased.jpg"
+  },
+  {
+   "target": "images/1463_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1890,
+    1262
+   ],
+   "file": "zxjd0228_9.png",
+   "archive_path": "zxjd0228_9.png",
+   "source_file": "1463_unbiased.jpg"
+  },
+  {
+   "target": "images/1466_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1702,
+    2202
+   ],
+   "file": "lzkh0228_1.png",
+   "archive_path": "lzkh0228_1.png",
+   "source_file": "1466_unbiased.jpg"
+  },
+  {
+   "target": "images/1476_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    2248,
+    1752
+   ],
+   "file": "pmdv0228_8.png",
+   "archive_path": "pmdv0228_8.png",
+   "source_file": "1476_unbiased.jpg"
+  },
+  {
+   "target": "images/1489_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1680,
+    2159
+   ],
+   "file": "gxph0227_8.png",
+   "archive_path": "gxph0227_8.png",
+   "source_file": "1489_unbiased.jpg"
+  },
+  {
+   "target": "images/1495_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1692,
+    2245
+   ],
+   "file": "hsfn0020_2.png",
+   "archive_path": "hsfn0020_2.png",
+   "source_file": "1495_unbiased.jpg"
+  },
+  {
+   "target": "images/1504_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1786,
+    2262
+   ],
+   "file": "gnnp0227_6.png",
+   "archive_path": "gnnp0227_6.png",
+   "source_file": "1504_unbiased.jpg"
+  },
+  {
+   "target": "images/1542_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1692,
+    2245
+   ],
+   "file": "nfdg0072_12.png",
+   "archive_path": "nfdg0072_12.png",
+   "source_file": "1542_unbiased.jpg"
+  },
+  {
+   "target": "images/1546_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1700,
+    2200
+   ],
+   "file": "tfgn0226_63.png",
+   "archive_path": "tfgn0226_63.png",
+   "source_file": "1546_unbiased.jpg"
+  },
+  {
+   "target": "images/1556_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1812,
+    2309
+   ],
+   "file": "lpdl0226_32.png",
+   "archive_path": "lpdl0226_32.png",
+   "source_file": "1556_unbiased.jpg"
+  },
+  {
+   "target": "images/1557_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    2222,
+    1738
+   ],
+   "file": "htyp0227_3.png",
+   "archive_path": "htyp0227_3.png",
+   "source_file": "1557_unbiased.jpg"
+  },
+  {
+   "target": "images/1563_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1700,
+    2201
+   ],
+   "file": "fgmx0225_5.png",
+   "archive_path": "fgmx0225_5.png",
+   "source_file": "1563_unbiased.jpg"
+  },
+  {
+   "target": "images/1598_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1695,
+    2159
+   ],
+   "file": "qfpd0079_14.png",
+   "archive_path": "qfpd0079_14.png",
+   "source_file": "1598_unbiased.jpg"
+  },
+  {
+   "target": "images/1615_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1695,
+    2162
+   ],
+   "file": "nynn0081_8.png",
+   "archive_path": "nynn0081_8.png",
+   "source_file": "1615_unbiased.jpg"
+  },
+  {
+   "target": "images/1633_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1289,
+    1940
+   ],
+   "file": "jxbb0228_10.png",
+   "archive_path": "jxbb0228_10.png",
+   "source_file": "1633_unbiased.jpg"
+  },
+  {
+   "target": "images/1638_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1680,
+    2348
+   ],
+   "file": "tyhk0228_2.png",
+   "archive_path": "tyhk0228_2.png",
+   "source_file": "1638_unbiased.jpg"
+  },
+  {
+   "target": "images/1661_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    2300,
+    1882
+   ],
+   "file": "jqbg0227_1.png",
+   "archive_path": "jqbg0227_1.png",
+   "source_file": "1661_unbiased.jpg"
+  },
+  {
+   "target": "images/1716_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1706,
+    2198
+   ],
+   "file": "qhxj0037_3.png",
+   "archive_path": "qhxj0037_3.png",
+   "source_file": "1716_unbiased.jpg"
+  },
+  {
+   "target": "images/1722_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    2273,
+    1780
+   ],
+   "file": "sspp0227_30.png",
+   "archive_path": "sspp0227_30.png",
+   "source_file": "1722_unbiased.jpg"
+  },
+  {
+   "target": "images/1768_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    2216,
+    1702
+   ],
+   "file": "shjh0227_2.png",
+   "archive_path": "shjh0227_2.png",
+   "source_file": "1768_unbiased.jpg"
+  },
+  {
+   "target": "images/1789_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1780,
+    2286
+   ],
+   "file": "yncd0227_2.png",
+   "archive_path": "yncd0227_2.png",
+   "source_file": "1789_unbiased.jpg"
+  },
+  {
+   "target": "images/1803_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1784,
+    2286
+   ],
+   "file": "xhfg0227_7.png",
+   "archive_path": "xhfg0227_7.png",
+   "source_file": "1803_unbiased.jpg"
+  }
+ ]
+}
