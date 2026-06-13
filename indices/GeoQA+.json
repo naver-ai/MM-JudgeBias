@@ -1,0 +1,357 @@
+{
+ "dataset": "GeoQA+",
+ "n": 25,
+ "covered": 25,
+ "samples": [
+  {
+   "target": "images/0069_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    262,
+    155
+   ],
+   "pk": {
+    "file": "Backtrans-train.pk",
+    "index": 2428,
+    "key": "image"
+   },
+   "source_file": "0069_unbiased.jpg"
+  },
+  {
+   "target": "images/0104_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    145,
+    102
+   ],
+   "pk": {
+    "file": "Backtrans-train.pk",
+    "index": 2771,
+    "key": "image"
+   },
+   "source_file": "0104_unbiased.jpg"
+  },
+  {
+   "target": "images/0321.jpg",
+   "role": "shared",
+   "size": [
+    156,
+    136
+   ],
+   "pk": {
+    "file": "Backtrans-train.pk",
+    "index": 4846,
+    "key": "image"
+   },
+   "source_file": "0321.jpg"
+  },
+  {
+   "target": "images/0407.jpg",
+   "role": "shared",
+   "size": [
+    122,
+    132
+   ],
+   "pk": {
+    "file": "Backtrans-train.pk",
+    "index": 1904,
+    "key": "image"
+   },
+   "source_file": "0407.jpg"
+  },
+  {
+   "target": "images/0421_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    172,
+    126
+   ],
+   "pk": {
+    "file": "Backtrans-train.pk",
+    "index": 6198,
+    "key": "image"
+   },
+   "source_file": "0421_unbiased.jpg"
+  },
+  {
+   "target": "images/0479_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    182,
+    135
+   ],
+   "pk": {
+    "file": "Backtrans-train.pk",
+    "index": 2931,
+    "key": "image"
+   },
+   "source_file": "0479_unbiased.jpg"
+  },
+  {
+   "target": "images/0579_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    172,
+    103
+   ],
+   "pk": {
+    "file": "Backtrans-train.pk",
+    "index": 11426,
+    "key": "image"
+   },
+   "source_file": "0579_unbiased.jpg"
+  },
+  {
+   "target": "images/0612_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    238,
+    145
+   ],
+   "pk": {
+    "file": "Backtrans-train.pk",
+    "index": 7225,
+    "key": "image"
+   },
+   "source_file": "0612_unbiased.jpg"
+  },
+  {
+   "target": "images/0667.jpg",
+   "role": "shared",
+   "size": [
+    203,
+    198
+   ],
+   "pk": {
+    "file": "Backtrans-train.pk",
+    "index": 4900,
+    "key": "image"
+   },
+   "source_file": "0667.jpg"
+  },
+  {
+   "target": "images/0677.jpg",
+   "role": "shared",
+   "size": [
+    205,
+    206
+   ],
+   "pk": {
+    "file": "Backtrans-train.pk",
+    "index": 4271,
+    "key": "image"
+   },
+   "source_file": "0677.jpg"
+  },
+  {
+   "target": "images/0916_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    260,
+    121
+   ],
+   "pk": {
+    "file": "Backtrans-train.pk",
+    "index": 4169,
+    "key": "image"
+   },
+   "source_file": "0916_unbiased.jpg"
+  },
+  {
+   "target": "images/0938_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    221,
+    165
+   ],
+   "pk": {
+    "file": "Backtrans-train.pk",
+    "index": 1074,
+    "key": "image"
+   },
+   "source_file": "0938_unbiased.jpg"
+  },
+  {
+   "target": "images/0959_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    122,
+    131
+   ],
+   "pk": {
+    "file": "Backtrans-train.pk",
+    "index": 1421,
+    "key": "image"
+   },
+   "source_file": "0959_unbiased.jpg"
+  },
+  {
+   "target": "images/0966_biased.jpg",
+   "role": "biased",
+   "size": [
+    214,
+    106
+   ],
+   "pk": {
+    "file": "Backtrans-train.pk",
+    "index": 1804,
+    "key": "image"
+   },
+   "source_file": "0966_biased.jpg"
+  },
+  {
+   "target": "images/1002_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    241,
+    105
+   ],
+   "pk": {
+    "file": "Backtrans-train.pk",
+    "index": 382,
+    "key": "image"
+   },
+   "source_file": "1002_unbiased.jpg"
+  },
+  {
+   "target": "images/1038.jpg",
+   "role": "shared",
+   "size": [
+    139,
+    104
+   ],
+   "pk": {
+    "file": "Backtrans-train.pk",
+    "index": 2912,
+    "key": "image"
+   },
+   "source_file": "1038.jpg"
+  },
+  {
+   "target": "images/1064.jpg",
+   "role": "shared",
+   "size": [
+    90,
+    105
+   ],
+   "pk": {
+    "file": "Backtrans-train.pk",
+    "index": 8279,
+    "key": "image"
+   },
+   "source_file": "1064.jpg"
+  },
+  {
+   "target": "images/1111.jpg",
+   "role": "shared",
+   "size": [
+    214,
+    106
+   ],
+   "pk": {
+    "file": "Backtrans-train.pk",
+    "index": 1804,
+    "key": "image"
+   },
+   "source_file": "1111.jpg"
+  },
+  {
+   "target": "images/1216.jpg",
+   "role": "shared",
+   "size": [
+    170,
+    117
+   ],
+   "pk": {
+    "file": "Backtrans-train.pk",
+    "index": 197,
+    "key": "image"
+   },
+   "source_file": "1216.jpg"
+  },
+  {
+   "target": "images/1477_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    192,
+    120
+   ],
+   "pk": {
+    "file": "Backtrans-train.pk",
+    "index": 4072,
+    "key": "image"
+   },
+   "source_file": "1477_unbiased.jpg"
+  },
+  {
+   "target": "images/1486_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    151,
+    107
+   ],
+   "pk": {
+    "file": "Backtrans-train.pk",
+    "index": 2404,
+    "key": "image"
+   },
+   "source_file": "1486_unbiased.jpg"
+  },
+  {
+   "target": "images/1645_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    180,
+    109
+   ],
+   "pk": {
+    "file": "Backtrans-train.pk",
+    "index": 2097,
+    "key": "image"
+   },
+   "source_file": "1645_unbiased.jpg"
+  },
+  {
+   "target": "images/1698_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    134,
+    123
+   ],
+   "pk": {
+    "file": "Backtrans-train.pk",
+    "index": 420,
+    "key": "image"
+   },
+   "source_file": "1698_unbiased.jpg"
+  },
+  {
+   "target": "images/1718_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    132,
+    101
+   ],
+   "pk": {
+    "file": "Backtrans-train.pk",
+    "index": 6,
+    "key": "image"
+   },
+   "source_file": "1718_unbiased.jpg"
+  },
+  {
+   "target": "images/1781_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    172,
+    185
+   ],
+   "pk": {
+    "file": "Backtrans-train.pk",
+    "index": 6085,
+    "key": "image"
+   },
+   "source_file": "1781_unbiased.jpg"
+  }
+ ]
+}

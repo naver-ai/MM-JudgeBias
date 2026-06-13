@@ -1,0 +1,403 @@
+{
+ "dataset": "infographicVQA",
+ "n": 36,
+ "covered": 36,
+ "samples": [
+  {
+   "target": "images/0150_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1024,
+    5482
+   ],
+   "file": "40651.jpeg",
+   "archive_path": "40651.jpeg",
+   "source_file": "0150_unbiased.jpg"
+  },
+  {
+   "target": "images/0153_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1200,
+    1200
+   ],
+   "file": "70512.jpeg",
+   "archive_path": "70512.jpeg",
+   "source_file": "0153_unbiased.jpg"
+  },
+  {
+   "target": "images/0156_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1920,
+    2852
+   ],
+   "file": "10068.jpeg",
+   "archive_path": "10068.jpeg",
+   "source_file": "0156_unbiased.jpg"
+  },
+  {
+   "target": "images/0264.jpg",
+   "role": "shared",
+   "size": [
+    1200,
+    3726
+   ],
+   "file": "70299.jpeg",
+   "archive_path": "70299.jpeg",
+   "source_file": "0264.jpg"
+  },
+  {
+   "target": "images/0292.jpg",
+   "role": "shared",
+   "size": [
+    720,
+    2573
+   ],
+   "file": "40804.jpeg",
+   "archive_path": "40804.jpeg",
+   "source_file": "0292.jpg"
+  },
+  {
+   "target": "images/0372.jpg",
+   "role": "shared",
+   "size": [
+    890,
+    2202
+   ],
+   "file": "37350.jpeg",
+   "archive_path": "37350.jpeg",
+   "source_file": "0372.jpg"
+  },
+  {
+   "target": "images/0420_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    750,
+    6781
+   ],
+   "file": "20152.jpeg",
+   "archive_path": "20152.jpeg",
+   "source_file": "0420_unbiased.jpg"
+  },
+  {
+   "target": "images/0436_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1000,
+    5740
+   ],
+   "file": "35205.jpeg",
+   "archive_path": "35205.jpeg",
+   "source_file": "0436_unbiased.jpg"
+  },
+  {
+   "target": "images/0522_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1024,
+    3301
+   ],
+   "file": "41893.jpeg",
+   "archive_path": "41893.jpeg",
+   "source_file": "0522_unbiased.jpg"
+  },
+  {
+   "target": "images/0573_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1700,
+    3580
+   ],
+   "file": "43109.jpeg",
+   "archive_path": "43109.jpeg",
+   "source_file": "0573_unbiased.jpg"
+  },
+  {
+   "target": "images/0630.jpg",
+   "role": "shared",
+   "size": [
+    960,
+    8134
+   ],
+   "file": "37012.jpeg",
+   "archive_path": "37012.jpeg",
+   "source_file": "0630.jpg"
+  },
+  {
+   "target": "images/0645.jpg",
+   "role": "shared",
+   "size": [
+    1000,
+    1666
+   ],
+   "file": "20178.jpeg",
+   "archive_path": "20178.jpeg",
+   "source_file": "0645.jpg"
+  },
+  {
+   "target": "images/0686.jpg",
+   "role": "shared",
+   "size": [
+    695,
+    900
+   ],
+   "file": "39789.jpeg",
+   "archive_path": "39789.jpeg",
+   "source_file": "0686.jpg"
+  },
+  {
+   "target": "images/0705.jpg",
+   "role": "shared",
+   "size": [
+    635,
+    1370
+   ],
+   "file": "10902.jpeg",
+   "archive_path": "10902.jpeg",
+   "source_file": "0705.jpg"
+  },
+  {
+   "target": "images/0716.jpg",
+   "role": "shared",
+   "size": [
+    1024,
+    791
+   ],
+   "file": "33745.jpeg",
+   "archive_path": "33745.jpeg",
+   "source_file": "0716.jpg"
+  },
+  {
+   "target": "images/0756.jpg",
+   "role": "shared",
+   "size": [
+    500,
+    3306
+   ],
+   "file": "20012.jpeg",
+   "archive_path": "20012.jpeg",
+   "source_file": "0756.jpg"
+  },
+  {
+   "target": "images/0834_biased.jpg",
+   "role": "biased",
+   "size": [
+    2318,
+    3000
+   ],
+   "file": "32312.jpeg",
+   "archive_path": "32312.jpeg",
+   "source_file": "0834_biased.jpg"
+  },
+  {
+   "target": "images/0855_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1200,
+    1200
+   ],
+   "file": "70512.jpeg",
+   "archive_path": "70512.jpeg",
+   "source_file": "0855_unbiased.jpg"
+  },
+  {
+   "target": "images/0884_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1086,
+    770
+   ],
+   "file": "44483.jpeg",
+   "archive_path": "44483.jpeg",
+   "source_file": "0884_unbiased.jpg"
+  },
+  {
+   "target": "images/0893_biased.jpg",
+   "role": "biased",
+   "size": [
+    1600,
+    900
+   ],
+   "file": "70496.jpeg",
+   "archive_path": "70496.jpeg",
+   "source_file": "0893_biased.jpg"
+  },
+  {
+   "target": "images/0914_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    975,
+    3532
+   ],
+   "file": "34643.jpeg",
+   "archive_path": "34643.jpeg",
+   "source_file": "0914_unbiased.jpg"
+  },
+  {
+   "target": "images/0915_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1024,
+    598
+   ],
+   "file": "35770.jpeg",
+   "archive_path": "35770.jpeg",
+   "source_file": "0915_unbiased.jpg"
+  },
+  {
+   "target": "images/0945_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    570,
+    1967
+   ],
+   "file": "36974.jpeg",
+   "archive_path": "36974.jpeg",
+   "source_file": "0945_unbiased.jpg"
+  },
+  {
+   "target": "images/0999_biased.jpg",
+   "role": "biased",
+   "size": [
+    940,
+    988
+   ],
+   "file": "31414.jpeg",
+   "archive_path": "31414.jpeg",
+   "source_file": "0999_biased.jpg"
+  },
+  {
+   "target": "images/1022.jpg",
+   "role": "shared",
+   "size": [
+    940,
+    988
+   ],
+   "file": "31414.jpeg",
+   "archive_path": "31414.jpeg",
+   "source_file": "1022.jpg"
+  },
+  {
+   "target": "images/1072.jpg",
+   "role": "shared",
+   "size": [
+    695,
+    900
+   ],
+   "file": "39789.jpeg",
+   "archive_path": "39789.jpeg",
+   "source_file": "1072.jpg"
+  },
+  {
+   "target": "images/1095.jpg",
+   "role": "shared",
+   "size": [
+    1800,
+    3600
+   ],
+   "file": "40814.jpeg",
+   "archive_path": "40814.jpeg",
+   "source_file": "1095.jpg"
+  },
+  {
+   "target": "images/1259_biased.jpg",
+   "role": "biased",
+   "size": [
+    500,
+    2815
+   ],
+   "file": "20144.jpeg",
+   "archive_path": "20144.jpeg",
+   "source_file": "1259_biased.jpg"
+  },
+  {
+   "target": "images/1358_biased.jpg",
+   "role": "biased",
+   "size": [
+    713,
+    2834
+   ],
+   "file": "20097.jpeg",
+   "archive_path": "20097.jpeg",
+   "source_file": "1358_biased.jpg"
+  },
+  {
+   "target": "images/1408_biased.jpg",
+   "role": "biased",
+   "size": [
+    1600,
+    900
+   ],
+   "file": "70496.jpeg",
+   "archive_path": "70496.jpeg",
+   "source_file": "1408_biased.jpg"
+  },
+  {
+   "target": "images/1411_biased.jpg",
+   "role": "biased",
+   "size": [
+    500,
+    1786
+   ],
+   "file": "20277.jpeg",
+   "archive_path": "20277.jpeg",
+   "source_file": "1411_biased.jpg"
+  },
+  {
+   "target": "images/1418_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1000,
+    2927
+   ],
+   "file": "37333.jpeg",
+   "archive_path": "37333.jpeg",
+   "source_file": "1418_unbiased.jpg"
+  },
+  {
+   "target": "images/1547_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    970,
+    2565
+   ],
+   "file": "35239.jpeg",
+   "archive_path": "35239.jpeg",
+   "source_file": "1547_unbiased.jpg"
+  },
+  {
+   "target": "images/1601_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    1024,
+    3301
+   ],
+   "file": "41893.jpeg",
+   "archive_path": "41893.jpeg",
+   "source_file": "1601_unbiased.jpg"
+  },
+  {
+   "target": "images/1743_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    2318,
+    3000
+   ],
+   "file": "32312.jpeg",
+   "archive_path": "32312.jpeg",
+   "source_file": "1743_unbiased.jpg"
+  },
+  {
+   "target": "images/1776_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    2000,
+    1437
+   ],
+   "file": "32292.jpeg",
+   "archive_path": "32292.jpeg",
+   "source_file": "1776_unbiased.jpg"
+  }
+ ]
+}

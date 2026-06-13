@@ -1,0 +1,1107 @@
+{
+ "dataset": "art-bench",
+ "n": 100,
+ "covered": 100,
+ "samples": [
+  {
+   "target": "images/0002_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "bartholomaus-spranger_saint-barbara-1611.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/renaissance/bartholomaus-spranger_saint-barbara-1611.jpg",
+   "source_file": "0002_unbiased.jpg"
+  },
+  {
+   "target": "images/0025_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "john-collier_eve-1911.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/romanticism/john-collier_eve-1911.jpg",
+   "source_file": "0025_unbiased.jpg"
+  },
+  {
+   "target": "images/0133_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "utagawa-kunisada_25988.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/ukiyo_e/utagawa-kunisada_25988.jpg",
+   "source_file": "0133_unbiased.jpg"
+  },
+  {
+   "target": "images/0164_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "konstantin-korovin_portrait-of-nikolay-chichagov-1902.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/impressionism/konstantin-korovin_portrait-of-nikolay-chichagov-1902.jpg",
+   "source_file": "0164_unbiased.jpg"
+  },
+  {
+   "target": "images/0176_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "edouard-vuillard_interior-with-mother-and-sister-of-the-artist-1893.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/post_impressionism/edouard-vuillard_interior-with-mother-and-sister-of-the-artist-1893.jpg",
+   "source_file": "0176_unbiased.jpg"
+  },
+  {
+   "target": "images/0207.jpg",
+   "role": "shared",
+   "size": [
+    256,
+    256
+   ],
+   "file": "augusta-savage_gamin-1929.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/realism/augusta-savage_gamin-1929.jpg",
+   "source_file": "0207.jpg"
+  },
+  {
+   "target": "images/0256.jpg",
+   "role": "shared",
+   "size": [
+    256,
+    256
+   ],
+   "file": "auguste-rodin_psyche-1886.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/impressionism/auguste-rodin_psyche-1886.jpg",
+   "source_file": "0256.jpg"
+  },
+  {
+   "target": "images/0272.jpg",
+   "role": "shared",
+   "size": [
+    256,
+    256
+   ],
+   "file": "ochiai-yoshiiku_1705.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/ukiyo_e/ochiai-yoshiiku_1705.jpg",
+   "source_file": "0272.jpg"
+  },
+  {
+   "target": "images/0339.jpg",
+   "role": "shared",
+   "size": [
+    256,
+    256
+   ],
+   "file": "gerard-terborch_woman-peeling-apple-1650.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/baroque/gerard-terborch_woman-peeling-apple-1650.jpg",
+   "source_file": "0339.jpg"
+  },
+  {
+   "target": "images/0348.jpg",
+   "role": "shared",
+   "size": [
+    256,
+    256
+   ],
+   "file": "werner-berg_heimkehr-im-regen.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/expressionism/werner-berg_heimkehr-im-regen.jpg",
+   "source_file": "0348.jpg"
+  },
+  {
+   "target": "images/0357.jpg",
+   "role": "shared",
+   "size": [
+    256,
+    256
+   ],
+   "file": "edouard-manet_a-young-girl-1880.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/impressionism/edouard-manet_a-young-girl-1880.jpg",
+   "source_file": "0357.jpg"
+  },
+  {
+   "target": "images/0363.jpg",
+   "role": "shared",
+   "size": [
+    256,
+    256
+   ],
+   "file": "henri-de-toulouse-lautrec_at-the-moulin-rouge-the-dance-1890.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/art_nouveau/henri-de-toulouse-lautrec_at-the-moulin-rouge-the-dance-1890.jpg",
+   "source_file": "0363.jpg"
+  },
+  {
+   "target": "images/0371.jpg",
+   "role": "shared",
+   "size": [
+    256,
+    256
+   ],
+   "file": "joseph-farquharson_a-walk-in-the-snow.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/realism/joseph-farquharson_a-walk-in-the-snow.jpg",
+   "source_file": "0371.jpg"
+  },
+  {
+   "target": "images/0374.jpg",
+   "role": "shared",
+   "size": [
+    256,
+    256
+   ],
+   "file": "Penrose_1949_The_Ventriloquist.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/surrealism/Penrose_1949_The_Ventriloquist.jpg",
+   "source_file": "0374.jpg"
+  },
+  {
+   "target": "images/0387.jpg",
+   "role": "shared",
+   "size": [
+    256,
+    256
+   ],
+   "file": "raphael_the-parnassus-from-the-stanza-delle-segnatura-detail-1511-1.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/renaissance/raphael_the-parnassus-from-the-stanza-delle-segnatura-detail-1511-1.jpg",
+   "source_file": "0387.jpg"
+  },
+  {
+   "target": "images/0390.jpg",
+   "role": "shared",
+   "size": [
+    256,
+    256
+   ],
+   "file": "kikugawa-eizan_470.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/ukiyo_e/kikugawa-eizan_470.jpg",
+   "source_file": "0390.jpg"
+  },
+  {
+   "target": "images/0400.jpg",
+   "role": "shared",
+   "size": [
+    256,
+    256
+   ],
+   "file": "currier-and-ives_republican-presidential-ticket-1864.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/romanticism/currier-and-ives_republican-presidential-ticket-1864.jpg",
+   "source_file": "0400.jpg"
+  },
+  {
+   "target": "images/0432_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "wassily-kandinsky_moscow-zubovskaya-square-study-1916.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/post_impressionism/wassily-kandinsky_moscow-zubovskaya-square-study-1916.jpg",
+   "source_file": "0432_unbiased.jpg"
+  },
+  {
+   "target": "images/0450_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "utagawa-kuniteru_302.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/ukiyo_e/utagawa-kuniteru_302.jpg",
+   "source_file": "0450_unbiased.jpg"
+  },
+  {
+   "target": "images/0503_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "robert-julian-onderdonk_noontime-on-the-docks-hudson-river-and-85th-street.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/impressionism/robert-julian-onderdonk_noontime-on-the-docks-hudson-river-and-85th-street.jpg",
+   "source_file": "0503_unbiased.jpg"
+  },
+  {
+   "target": "images/0545_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "adam-elsheimer_a-witch-with-cupids-1598.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/baroque/adam-elsheimer_a-witch-with-cupids-1598.jpg",
+   "source_file": "0545_unbiased.jpg"
+  },
+  {
+   "target": "images/0558_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "roman-selsky_untitled-0.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/post_impressionism/roman-selsky_untitled-0.jpg",
+   "source_file": "0558_unbiased.jpg"
+  },
+  {
+   "target": "images/0578_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "thomas-moran_grand-canyon-of-the-yellowstone-wyoming-1906.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/romanticism/thomas-moran_grand-canyon-of-the-yellowstone-wyoming-1906.jpg",
+   "source_file": "0578_unbiased.jpg"
+  },
+  {
+   "target": "images/0611_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "serge-sudeikin_costume-design-for-venetian-madmen-jester-1915.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/art_nouveau/serge-sudeikin_costume-design-for-venetian-madmen-jester-1915.jpg",
+   "source_file": "0611_unbiased.jpg"
+  },
+  {
+   "target": "images/0619.jpg",
+   "role": "shared",
+   "size": [
+    256,
+    256
+   ],
+   "file": "marianne-stokes_krivan-seen-from-near-vazsecz-1909.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/impressionism/marianne-stokes_krivan-seen-from-near-vazsecz-1909.jpg",
+   "source_file": "0619.jpg"
+  },
+  {
+   "target": "images/0625.jpg",
+   "role": "shared",
+   "size": [
+    256,
+    256
+   ],
+   "file": "wenceslaus-hollar_eight-doves.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/baroque/wenceslaus-hollar_eight-doves.jpg",
+   "source_file": "0625.jpg"
+  },
+  {
+   "target": "images/0636.jpg",
+   "role": "shared",
+   "size": [
+    256,
+    256
+   ],
+   "file": "vincent-van-gogh_skeleton.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/post_impressionism/vincent-van-gogh_skeleton.jpg",
+   "source_file": "0636.jpg"
+  },
+  {
+   "target": "images/0643.jpg",
+   "role": "shared",
+   "size": [
+    256,
+    256
+   ],
+   "file": "Antoni_Lamolla_1942_The_sign_of_the_Cross.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/surrealism/Antoni_Lamolla_1942_The_sign_of_the_Cross.jpg",
+   "source_file": "0643.jpg"
+  },
+  {
+   "target": "images/0650.jpg",
+   "role": "shared",
+   "size": [
+    256,
+    256
+   ],
+   "file": "pyotr-konchalovsky_fruit-piece-1911.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/post_impressionism/pyotr-konchalovsky_fruit-piece-1911.jpg",
+   "source_file": "0650.jpg"
+  },
+  {
+   "target": "images/0652.jpg",
+   "role": "shared",
+   "size": [
+    256,
+    256
+   ],
+   "file": "ivan-aivazovsky_venice-1849.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/romanticism/ivan-aivazovsky_venice-1849.jpg",
+   "source_file": "0652.jpg"
+  },
+  {
+   "target": "images/0701.jpg",
+   "role": "shared",
+   "size": [
+    256,
+    256
+   ],
+   "file": "jozef-mehoffer_portrait-of-father-j-joachim-berthier-1918.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/post_impressionism/jozef-mehoffer_portrait-of-father-j-joachim-berthier-1918.jpg",
+   "source_file": "0701.jpg"
+  },
+  {
+   "target": "images/0707.jpg",
+   "role": "shared",
+   "size": [
+    256,
+    256
+   ],
+   "file": "Masson_1938_Pygmalion.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/surrealism/Masson_1938_Pygmalion.jpg",
+   "source_file": "0707.jpg"
+  },
+  {
+   "target": "images/0708.jpg",
+   "role": "shared",
+   "size": [
+    256,
+    256
+   ],
+   "file": "paolo-veronese_nemesis-1561.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/renaissance/paolo-veronese_nemesis-1561.jpg",
+   "source_file": "0708.jpg"
+  },
+  {
+   "target": "images/0734.jpg",
+   "role": "shared",
+   "size": [
+    256,
+    256
+   ],
+   "file": "fyodor-bronnikov_abandoned-1873.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/realism/fyodor-bronnikov_abandoned-1873.jpg",
+   "source_file": "0734.jpg"
+  },
+  {
+   "target": "images/0744.jpg",
+   "role": "shared",
+   "size": [
+    256,
+    256
+   ],
+   "file": "werner-peiner_sunset-in-africa.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/expressionism/werner-peiner_sunset-in-africa.jpg",
+   "source_file": "0744.jpg"
+  },
+  {
+   "target": "images/0749.jpg",
+   "role": "shared",
+   "size": [
+    256,
+    256
+   ],
+   "file": "paul-klee_fire-full-moon-1933.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/expressionism/paul-klee_fire-full-moon-1933.jpg",
+   "source_file": "0749.jpg"
+  },
+  {
+   "target": "images/0751.jpg",
+   "role": "shared",
+   "size": [
+    256,
+    256
+   ],
+   "file": "canaletto_the-piazzetta-looking-towards-the-torre-dell-orologio.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/baroque/canaletto_the-piazzetta-looking-towards-the-torre-dell-orologio.jpg",
+   "source_file": "0751.jpg"
+  },
+  {
+   "target": "images/0833_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "martiros-sarian_autumn-still-life-1961.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/post_impressionism/martiros-sarian_autumn-still-life-1961.jpg",
+   "source_file": "0833_unbiased.jpg"
+  },
+  {
+   "target": "images/0834_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "carolus-duran_the-spaniard-1870.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/realism/carolus-duran_the-spaniard-1870.jpg",
+   "source_file": "0834_unbiased.jpg"
+  },
+  {
+   "target": "images/0847_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "xu-beihong_eagle.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/expressionism/xu-beihong_eagle.jpg",
+   "source_file": "0847_unbiased.jpg"
+  },
+  {
+   "target": "images/0848_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "otto-van-veen_the-mystical-marriage-of-saint-catherine-1589.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/renaissance/otto-van-veen_the-mystical-marriage-of-saint-catherine-1589.jpg",
+   "source_file": "0848_unbiased.jpg"
+  },
+  {
+   "target": "images/0849_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "Wojciech_Grzanka_Caecus.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/surrealism/Wojciech_Grzanka_Caecus.jpg",
+   "source_file": "0849_unbiased.jpg"
+  },
+  {
+   "target": "images/0850_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "adriaen-van-ostade_smoker.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/baroque/adriaen-van-ostade_smoker.jpg",
+   "source_file": "0850_unbiased.jpg"
+  },
+  {
+   "target": "images/0856_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "edouard-riou_msiris-interpreter-and-spies-in-the-stairs-expeditions-camp-at-bunkeya-during-a-stand-off-in.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/romanticism/edouard-riou_msiris-interpreter-and-spies-in-the-stairs-expeditions-camp-at-bunkeya-during-a-stand-off-in.jpg",
+   "source_file": "0856_unbiased.jpg"
+  },
+  {
+   "target": "images/0863_biased.jpg",
+   "role": "biased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "Michel_Ogier_Idalia_on_the_tower.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/surrealism/Michel_Ogier_Idalia_on_the_tower.jpg",
+   "source_file": "0863_biased.jpg"
+  },
+  {
+   "target": "images/0865_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "august-macke_anglers-on-the-rhine.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/expressionism/august-macke_anglers-on-the-rhine.jpg",
+   "source_file": "0865_unbiased.jpg"
+  },
+  {
+   "target": "images/0866_biased.jpg",
+   "role": "biased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "edwin-austin-abbey_sir-lancelot-and-sir-bors-outfit-galahad-with-his-spurs-1895.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/romanticism/edwin-austin-abbey_sir-lancelot-and-sir-bors-outfit-galahad-with-his-spurs-1895.jpg",
+   "source_file": "0866_biased.jpg"
+  },
+  {
+   "target": "images/0892_biased.jpg",
+   "role": "biased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "raphael_the-parnassus-from-the-stanza-delle-segnatura-detail-1511-1.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/renaissance/raphael_the-parnassus-from-the-stanza-delle-segnatura-detail-1511-1.jpg",
+   "source_file": "0892_biased.jpg"
+  },
+  {
+   "target": "images/0905_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "hishikawa-moronobu_96.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/ukiyo_e/hishikawa-moronobu_96.jpg",
+   "source_file": "0905_unbiased.jpg"
+  },
+  {
+   "target": "images/0915_biased.jpg",
+   "role": "biased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "jacques-villon_comedy-of-society-1903.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/art_nouveau/jacques-villon_comedy-of-society-1903.jpg",
+   "source_file": "0915_biased.jpg"
+  },
+  {
+   "target": "images/0947_biased.jpg",
+   "role": "biased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "raphael_the-parnassus-from-the-stanza-delle-segnatura-detail-1511-1.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/renaissance/raphael_the-parnassus-from-the-stanza-delle-segnatura-detail-1511-1.jpg",
+   "source_file": "0947_biased.jpg"
+  },
+  {
+   "target": "images/0954_biased.jpg",
+   "role": "biased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "paolo-veronese_nemesis-1561.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/renaissance/paolo-veronese_nemesis-1561.jpg",
+   "source_file": "0954_biased.jpg"
+  },
+  {
+   "target": "images/0961_biased.jpg",
+   "role": "biased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "henri-de-toulouse-lautrec_the-artist-s-mother-the-countess-ad%C3%A8le-de-toulouse-lautrec-at-breakfast-1883.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/impressionism/henri-de-toulouse-lautrec_the-artist-s-mother-the-countess-ad%C3%A8le-de-toulouse-lautrec-at-breakfast-1883.jpg",
+   "source_file": "0961_biased.jpg"
+  },
+  {
+   "target": "images/0965_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "Planells_1985_L'hora_de_m\u00e9s_quietut.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/surrealism/Planells_1985_L'hora_de_m\u00e9s_quietut.jpg",
+   "source_file": "0965_unbiased.jpg"
+  },
+  {
+   "target": "images/0990_biased.jpg",
+   "role": "biased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "thomas-moran_grand-canyon-of-the-yellowstone-wyoming-1906.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/romanticism/thomas-moran_grand-canyon-of-the-yellowstone-wyoming-1906.jpg",
+   "source_file": "0990_biased.jpg"
+  },
+  {
+   "target": "images/0998_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "francesco-de-rossi-francesco-salviati_lange-de-la-justice-detail-1554-0.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/renaissance/francesco-de-rossi-francesco-salviati_lange-de-la-justice-detail-1554-0.jpg",
+   "source_file": "0998_unbiased.jpg"
+  },
+  {
+   "target": "images/1005_biased.jpg",
+   "role": "biased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "raphael_the-parnassus-from-the-stanza-delle-segnatura-detail-1511-1.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/renaissance/raphael_the-parnassus-from-the-stanza-delle-segnatura-detail-1511-1.jpg",
+   "source_file": "1005_biased.jpg"
+  },
+  {
+   "target": "images/1020.jpg",
+   "role": "shared",
+   "size": [
+    256,
+    256
+   ],
+   "file": "francesc-masriera_la-caixa.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/art_nouveau/francesc-masriera_la-caixa.jpg",
+   "source_file": "1020.jpg"
+  },
+  {
+   "target": "images/1027.jpg",
+   "role": "shared",
+   "size": [
+    256,
+    256
+   ],
+   "file": "viktor-vasnetsov_baptism-of-prince-vladimir-fragment-of-the-vladimir-cathedral-in-kiev-1893.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/romanticism/viktor-vasnetsov_baptism-of-prince-vladimir-fragment-of-the-vladimir-cathedral-in-kiev-1893.jpg",
+   "source_file": "1027.jpg"
+  },
+  {
+   "target": "images/1030.jpg",
+   "role": "shared",
+   "size": [
+    256,
+    256
+   ],
+   "file": "dosso-dossi_st-cosmas-and-st-damian-1534.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/renaissance/dosso-dossi_st-cosmas-and-st-damian-1534.jpg",
+   "source_file": "1030.jpg"
+  },
+  {
+   "target": "images/1042.jpg",
+   "role": "shared",
+   "size": [
+    256,
+    256
+   ],
+   "file": "boris-kustodiev_portrait-of-martha-and-marina-chaliapin-1920.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/realism/boris-kustodiev_portrait-of-martha-and-marina-chaliapin-1920.jpg",
+   "source_file": "1042.jpg"
+  },
+  {
+   "target": "images/1088.jpg",
+   "role": "shared",
+   "size": [
+    256,
+    256
+   ],
+   "file": "arshile-gorky_nude.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/surrealism/arshile-gorky_nude.jpg",
+   "source_file": "1088.jpg"
+  },
+  {
+   "target": "images/1109.jpg",
+   "role": "shared",
+   "size": [
+    256,
+    256
+   ],
+   "file": "theodor-severin-kittelsen_daarlige-utsikter.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/realism/theodor-severin-kittelsen_daarlige-utsikter.jpg",
+   "source_file": "1109.jpg"
+  },
+  {
+   "target": "images/1128.jpg",
+   "role": "shared",
+   "size": [
+    256,
+    256
+   ],
+   "file": "paul-nash_view-from-a-window-nice-1934.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/surrealism/paul-nash_view-from-a-window-nice-1934.jpg",
+   "source_file": "1128.jpg"
+  },
+  {
+   "target": "images/1196.jpg",
+   "role": "shared",
+   "size": [
+    256,
+    256
+   ],
+   "file": "guy-rose_path-along-the-shore.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/impressionism/guy-rose_path-along-the-shore.jpg",
+   "source_file": "1196.jpg"
+  },
+  {
+   "target": "images/1205.jpg",
+   "role": "shared",
+   "size": [
+    256,
+    256
+   ],
+   "file": "Michel_Ogier_Idalia_on_the_tower.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/surrealism/Michel_Ogier_Idalia_on_the_tower.jpg",
+   "source_file": "1205.jpg"
+  },
+  {
+   "target": "images/1213.jpg",
+   "role": "shared",
+   "size": [
+    256,
+    256
+   ],
+   "file": "albrecht-durer_the-lady-of-the-festival-du-rosaire-fragment-1.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/renaissance/albrecht-durer_the-lady-of-the-festival-du-rosaire-fragment-1.jpg",
+   "source_file": "1213.jpg"
+  },
+  {
+   "target": "images/1214.jpg",
+   "role": "shared",
+   "size": [
+    256,
+    256
+   ],
+   "file": "francesco-de-rossi-francesco-salviati_coronation-of-the-virgin-1563.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/renaissance/francesco-de-rossi-francesco-salviati_coronation-of-the-virgin-1563.jpg",
+   "source_file": "1214.jpg"
+  },
+  {
+   "target": "images/1237_biased.jpg",
+   "role": "biased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "alphonse-mucha_byzantine-head-the-blonde-1897.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/art_nouveau/alphonse-mucha_byzantine-head-the-blonde-1897.jpg",
+   "source_file": "1237_biased.jpg"
+  },
+  {
+   "target": "images/1255_biased.jpg",
+   "role": "biased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "guercino_the-vocation-of-saint-aloysius-gonzaga.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/baroque/guercino_the-vocation-of-saint-aloysius-gonzaga.jpg",
+   "source_file": "1255_biased.jpg"
+  },
+  {
+   "target": "images/1266_biased.jpg",
+   "role": "biased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "emil-nolde_indonesian-couple-1921.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/expressionism/emil-nolde_indonesian-couple-1921.jpg",
+   "source_file": "1266_biased.jpg"
+  },
+  {
+   "target": "images/1313_biased.jpg",
+   "role": "biased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "isoda-koryusai_975.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/ukiyo_e/isoda-koryusai_975.jpg",
+   "source_file": "1313_biased.jpg"
+  },
+  {
+   "target": "images/1323_biased.jpg",
+   "role": "biased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "gustave-loiseau_fog-morning-effect-1917.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/post_impressionism/gustave-loiseau_fog-morning-effect-1917.jpg",
+   "source_file": "1323_biased.jpg"
+  },
+  {
+   "target": "images/1337_biased.jpg",
+   "role": "biased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "owen-jones_arabian-no-2-arabian-ornaments-from-the-thirteenth-century-from-cairo.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/art_nouveau/owen-jones_arabian-no-2-arabian-ornaments-from-the-thirteenth-century-from-cairo.jpg",
+   "source_file": "1337_biased.jpg"
+  },
+  {
+   "target": "images/1367_biased.jpg",
+   "role": "biased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "fyodor-vasilyev_abandoned-mill-1873.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/realism/fyodor-vasilyev_abandoned-mill-1873.jpg",
+   "source_file": "1367_biased.jpg"
+  },
+  {
+   "target": "images/1370_biased.jpg",
+   "role": "biased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "Remedios_Varo_1957_Winding_Roads.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/surrealism/Remedios_Varo_1957_Winding_Roads.jpg",
+   "source_file": "1370_biased.jpg"
+  },
+  {
+   "target": "images/1383_biased.jpg",
+   "role": "biased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "octav-angheluta_micuta-cusatoreasa.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/impressionism/octav-angheluta_micuta-cusatoreasa.jpg",
+   "source_file": "1383_biased.jpg"
+  },
+  {
+   "target": "images/1390_biased.jpg",
+   "role": "biased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "bartolome-esteban-murillo_san-salvador-de-horta-and-inquisitor-of-aragon.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/baroque/bartolome-esteban-murillo_san-salvador-de-horta-and-inquisitor-of-aragon.jpg",
+   "source_file": "1390_biased.jpg"
+  },
+  {
+   "target": "images/1426_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "edwin-austin-abbey_sir-lancelot-and-sir-bors-outfit-galahad-with-his-spurs-1895.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/romanticism/edwin-austin-abbey_sir-lancelot-and-sir-bors-outfit-galahad-with-his-spurs-1895.jpg",
+   "source_file": "1426_unbiased.jpg"
+  },
+  {
+   "target": "images/1452_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "james-charles_the-knifegrinder-1887.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/realism/james-charles_the-knifegrinder-1887.jpg",
+   "source_file": "1452_unbiased.jpg"
+  },
+  {
+   "target": "images/1455_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "bahman-mohasses_untitled.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/expressionism/bahman-mohasses_untitled.jpg",
+   "source_file": "1455_unbiased.jpg"
+  },
+  {
+   "target": "images/1499_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "karl-bryullov_self-portrait-1816.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/romanticism/karl-bryullov_self-portrait-1816.jpg",
+   "source_file": "1499_unbiased.jpg"
+  },
+  {
+   "target": "images/1538_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "boris-kustodiev_fontanka-1916.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/art_nouveau/boris-kustodiev_fontanka-1916.jpg",
+   "source_file": "1538_unbiased.jpg"
+  },
+  {
+   "target": "images/1549_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "alfred-dehodencq_etude-dune-gitane-vue-de-dos.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/romanticism/alfred-dehodencq_etude-dune-gitane-vue-de-dos.jpg",
+   "source_file": "1549_unbiased.jpg"
+  },
+  {
+   "target": "images/1579_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "giulio-clovio_corpus-christi-procession-1546.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/renaissance/giulio-clovio_corpus-christi-procession-1546.jpg",
+   "source_file": "1579_unbiased.jpg"
+  },
+  {
+   "target": "images/1586_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "mikhail-nesterov_portrait-of-elizaveta-tal-1936.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/realism/mikhail-nesterov_portrait-of-elizaveta-tal-1936.jpg",
+   "source_file": "1586_unbiased.jpg"
+  },
+  {
+   "target": "images/1596_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "katsushika-hokusai_2235.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/ukiyo_e/katsushika-hokusai_2235.jpg",
+   "source_file": "1596_unbiased.jpg"
+  },
+  {
+   "target": "images/1600_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "marc-chagall_illustration-for-brochure-schwartzbard-1927.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/expressionism/marc-chagall_illustration-for-brochure-schwartzbard-1927.jpg",
+   "source_file": "1600_unbiased.jpg"
+  },
+  {
+   "target": "images/1620_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "childe-hassam_new-york-hod-carriers.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/impressionism/childe-hassam_new-york-hod-carriers.jpg",
+   "source_file": "1620_unbiased.jpg"
+  },
+  {
+   "target": "images/1681_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "gerard-van-honthorst_princess-louise-hollandine-1642.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/baroque/gerard-van-honthorst_princess-louise-hollandine-1642.jpg",
+   "source_file": "1681_unbiased.jpg"
+  },
+  {
+   "target": "images/1689_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "auguste-rodin_portrait-of-camille-claudel-with-a-bonnet-1886.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/impressionism/auguste-rodin_portrait-of-camille-claudel-with-a-bonnet-1886.jpg",
+   "source_file": "1689_unbiased.jpg"
+  },
+  {
+   "target": "images/1701_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "nicholas-roerich_yaroslavl-entrance-to-the-st-nicholas-wet-church-1903.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/art_nouveau/nicholas-roerich_yaroslavl-entrance-to-the-st-nicholas-wet-church-1903.jpg",
+   "source_file": "1701_unbiased.jpg"
+  },
+  {
+   "target": "images/1704_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "hosoda-eishi_593.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/ukiyo_e/hosoda-eishi_593.jpg",
+   "source_file": "1704_unbiased.jpg"
+  },
+  {
+   "target": "images/1710_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "moise-kisling_children-of-dr-tas-1930.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/post_impressionism/moise-kisling_children-of-dr-tas-1930.jpg",
+   "source_file": "1710_unbiased.jpg"
+  },
+  {
+   "target": "images/1746_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "henri-de-toulouse-lautrec_the-artist-s-mother-the-countess-ad%C3%A8le-de-toulouse-lautrec-at-breakfast-1883.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/impressionism/henri-de-toulouse-lautrec_the-artist-s-mother-the-countess-ad%C3%A8le-de-toulouse-lautrec-at-breakfast-1883.jpg",
+   "source_file": "1746_unbiased.jpg"
+  },
+  {
+   "target": "images/1748_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "n-c-wyeth_a-hindu-mystic.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/realism/n-c-wyeth_a-hindu-mystic.jpg",
+   "source_file": "1748_unbiased.jpg"
+  },
+  {
+   "target": "images/1754_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "hishikawa-moronobu_180.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/ukiyo_e/hishikawa-moronobu_180.jpg",
+   "source_file": "1754_unbiased.jpg"
+  },
+  {
+   "target": "images/1772_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "boris-kustodiev_on-the-volga-1910.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/art_nouveau/boris-kustodiev_on-the-volga-1910.jpg",
+   "source_file": "1772_unbiased.jpg"
+  },
+  {
+   "target": "images/1785_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "evelyn-de-morgan_the-garden-of-opportunity-1892.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/romanticism/evelyn-de-morgan_the-garden-of-opportunity-1892.jpg",
+   "source_file": "1785_unbiased.jpg"
+  },
+  {
+   "target": "images/1801_unbiased.jpg",
+   "role": "unbiased",
+   "size": [
+    256,
+    256
+   ],
+   "file": "koloman-moser_backhausen-interior-texiles-1899.jpg",
+   "archive_path": "artbench-10-imagefolder-split/train/art_nouveau/koloman-moser_backhausen-interior-texiles-1899.jpg",
+   "source_file": "1801_unbiased.jpg"
+  }
+ ]
+}
