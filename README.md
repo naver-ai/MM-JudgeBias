@@ -106,13 +106,26 @@ vllm serve Qwen/Qwen3-VL-8B-Instruct \
 ## Citation
 
 ```bibtex
-@inproceedings{lee2026mmjudgebias,
-      title = "MM-JudgeBias: A Benchmark for Evaluating Compositional Biases in MLLM-as-a-Judge",
-      author = "Lee, Sua and Park, Sanghee and Im, Jinbae",
-      booktitle = "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
-      year = "2026",
-      publisher = "Association for Computational Linguistics",
-  }
+@inproceedings{lee-etal-2026-mm,
+    title = "{MM}-{J}udge{B}ias: A Benchmark for Evaluating Compositional Biases in {MLLM}-as-a-Judge",
+    author = "Lee, Sua  and
+      Park, Sanghee  and
+      Im, Jinbae",
+    editor = "Liakata, Maria  and
+      Moreira, Viviane P.  and
+      Zhang, Jiajun  and
+      Jurgens, David",
+    booktitle = "Proceedings of the 64th Annual Meeting of the {A}ssociation for {C}omputational {L}inguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.acl-long.1162/",
+    doi = "10.18653/v1/2026.acl-long.1162",
+    pages = "25336--25373",
+    ISBN = "979-8-89176-390-6",
+    abstract = "Multimodal Large Language Models (MLLMs) have been increasingly used as automatic evaluators{---}a paradigm known as *MLLM-as-a-Judge*. However, their reliability and vulnerabilities to biases remain underexplored. We find that many MLLM judges fail to reliably integrate key visual or textual cues, yielding unreliable evaluations when evidence is missing or mismatched, and exhibiting instability under semantically irrelevant perturbations. To address this, we systematically define *Compositional Bias* in MLLM-as-a-Judge systems and introduce **MM-JudgeBias**, a benchmark for evaluating it. MM-JudgeBias introduces controlled perturbations across Query, Image, and Response, and evaluates model behavior via two complementary metrics: *Bias-Deviation (BD)* for sensitivity and *Bias-Conformity (BC)* for stability. Our dataset of over 1,800 curated and refined multimodal samples, drawn from 29 source benchmarks, enables a fine-grained diagnosis of nine bias types across diverse tasks and domains. Experiments on 26 state-of-the-art MLLMs reveal systematic modality neglect and asymmetric evaluation tendencies, underscoring the need for more reliable judges."
+}
 ```
 
 ## License
